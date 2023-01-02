@@ -192,6 +192,6 @@ dependencies {
     testCompile 'com.google.appengine:appengine-api-stubs:+'
     testCompile 'com.google.appengine:appengine-tools-sdk:+'
     //*/
-    
+
     implementation 'io.github.java-native:jssc:2.9.4'
 }
