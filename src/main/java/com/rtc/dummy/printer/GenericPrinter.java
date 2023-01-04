@@ -1,13 +1,13 @@
 /*
- * @fileoverview {GenericPrinter<T,} se encarga de realizar tareas especificas.
+ * @fileoverview {GenericPrinter} se encarga de realizar tareas especificas.
  *
  * @version             1.0
  *
  * @author              Dyson Arley Parra Tilano <dysontilano@gmail.com>
  * Copyright (C) Dyson Parra
  *
- * @History v1.0 --- La implementacion de {GenericPrinter<T,} fue realizada el 31/07/2022.
- * @Dev - La primera version de {GenericPrinter<T,} fue escrita por Dyson A. Parra T.
+ * @History v1.0 --- La implementacion de {GenericPrinter} fue realizada el 31/07/2022.
+ * @Dev - La primera version de {GenericPrinter} fue escrita por Dyson A. Parra T.
  */
 package com.rtc.dummy.printer;
 
@@ -21,7 +21,7 @@ import javax.print.attribute.PrintRequestAttributeSet;
 import javax.print.attribute.standard.Sides;
 
 /**
- * TODO: Definición de {@code PrintService}.
+ * TODO: Definición de {@code GenericPrinter}.
  *
  * @author Dyson Parra
  * @param <T>

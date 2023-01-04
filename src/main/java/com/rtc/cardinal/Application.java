@@ -36,7 +36,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import static com.rtc.cardinal.websocket.config.DataBaseConfig.*;
 
 /**
- * TODO: Definición de {@code BackEnd}.
+ * TODO: Definición de {@code Application}.
  *
  * @author Dyson Parra
  * @since 1.8

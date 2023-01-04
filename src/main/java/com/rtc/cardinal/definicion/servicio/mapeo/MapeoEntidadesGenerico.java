@@ -1,13 +1,13 @@
 /*
- * @fileoverview {MapeoEntidadesGenerico<D,} se encarga de realizar tareas especificas.
+ * @fileoverview {MapeoEntidadesGenerico} se encarga de realizar tareas especificas.
  *
  * @version             1.0
  *
  * @author              Dyson Arley Parra Tilano <dysontilano@gmail.com>
  * Copyright (C) Dyson Parra
  *
- * @History v1.0 --- La implementacion de {MapeoEntidadesGenerico<D,} fue realizada el 31/07/2022.
- * @Dev - La primera version de {MapeoEntidadesGenerico<D,} fue escrita por Dyson A. Parra T.
+ * @History v1.0 --- La implementacion de {MapeoEntidadesGenerico} fue realizada el 31/07/2022.
+ * @Dev - La primera version de {MapeoEntidadesGenerico} fue escrita por Dyson A. Parra T.
  */
 package com.rtc.cardinal.definicion.servicio.mapeo;
 
