@@ -20,8 +20,9 @@ import lombok.NonNull;
 /**
  * TODO: Definición de {@code GenericCommandProcessor}.
  *
- * @author Dyson Parra
  * @param <T>
+ *
+ * @author Dyson Parra
  * @since 1.8
  */
 public interface GenericCommandProcessor<T> {

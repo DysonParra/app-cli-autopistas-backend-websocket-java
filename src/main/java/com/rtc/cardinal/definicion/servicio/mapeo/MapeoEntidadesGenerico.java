@@ -17,6 +17,7 @@ package com.rtc.cardinal.definicion.servicio.mapeo;
 import java.util.List;
 
 /**
+ * FIXME: Definición de {@code MapeoEntidadesGenerico}.
  * Contract for a generic dto to entity mapper.
  *
  * @param <D> - DTO type parameter.

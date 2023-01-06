@@ -26,9 +26,10 @@ import javax.print.attribute.standard.Sides;
 /**
  * TODO: Definición de {@code GenericPrinter}.
  *
- * @author Dyson Parra
  * @param <T>
  * @param <U>
+ *
+ * @author Dyson Parra
  * @since 1.8
  */
 public abstract class GenericPrinter<T, U> {

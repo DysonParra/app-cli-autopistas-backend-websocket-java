@@ -19,8 +19,9 @@ import java.util.List;
 /**
  * TODO: Definición de {@code GenericObjectToPrint}.
  *
- * @author Dyson Parra
  * @param <T>
+ *
+ * @author Dyson Parra
  * @since 1.8
  */
 public interface GenericObjectToPrint<T> {
