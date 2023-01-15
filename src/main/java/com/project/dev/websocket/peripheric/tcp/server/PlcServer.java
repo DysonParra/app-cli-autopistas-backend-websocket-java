@@ -14,6 +14,8 @@
  */
 package com.project.dev.websocket.peripheric.tcp.server;
 
+import com.project.dev.dummy.websocket.tcp.generic.server.ServerConnectionListener;
+import com.project.dev.dummy.websocket.tcp.generic.server.ThreadServer;
 import com.project.dev.websocket.commandprocessor.GenericCommandProcessor;
 import com.project.dev.websocket.commandprocessor.PlcCommandProcessor;
 import com.project.dev.websocket.config.DataBaseConfig;
@@ -21,8 +23,6 @@ import com.project.dev.websocket.model.element.GenericElement;
 import com.project.dev.websocket.model.element.InternCommandElement;
 import com.project.dev.websocket.model.element.PlcCommandElement;
 import com.project.dev.websocket.peripheric.PeriphericTcpServer;
-import com.project.dev.dummy.websocket.tcp.generic.server.ServerConnectionListener;
-import com.project.dev.dummy.websocket.tcp.generic.server.ThreadServer;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

@@ -14,10 +14,12 @@
  */
 package com.project.dev.websocket.peripheric.tcp.client;
 
-import com.project.dev.backend.servicio.dto.CategoriaDTO;
-import com.project.dev.backend.servicio.dto.TransitoDinamicaDTO;
-import com.project.dev.backend.servicio.dto.VehiculoDTO;
-import com.project.dev.backend.servicio.dto.VehiculoSobrepesoDTO;
+import com.project.dev.api.dto.CategoriaDTO;
+import com.project.dev.api.dto.TransitoDinamicaDTO;
+import com.project.dev.api.dto.VehiculoDTO;
+import com.project.dev.api.dto.VehiculoSobrepesoDTO;
+import com.project.dev.dummy.websocket.tcp.generic.client.ClientMessageListener;
+import com.project.dev.dummy.websocket.tcp.generic.client.GenericClient;
 import com.project.dev.websocket.model.Station;
 import com.project.dev.websocket.model.element.CameraPlateElement;
 import com.project.dev.websocket.model.element.GenericElement;
@@ -26,8 +28,6 @@ import com.project.dev.websocket.model.element.PlcCommandElement;
 import com.project.dev.websocket.model.front.CameraMessage;
 import com.project.dev.websocket.model.front.DynamicWeightMessage;
 import com.project.dev.websocket.peripheric.PeriphericTcpClient;
-import com.project.dev.dummy.websocket.tcp.generic.client.ClientMessageListener;
-import com.project.dev.dummy.websocket.tcp.generic.client.GenericClient;
 import java.net.Socket;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

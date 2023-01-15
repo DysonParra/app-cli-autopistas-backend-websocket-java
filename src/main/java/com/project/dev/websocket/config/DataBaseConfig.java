@@ -14,8 +14,8 @@
  */
 package com.project.dev.websocket.config;
 
-import com.project.dev.backend.servicio.ServicioConfiguracion;
-import com.project.dev.backend.servicio.dto.ConfiguracionDTO;
+import com.project.dev.api.dto.ConfiguracionDTO;
+import com.project.dev.api.servicio.ServicioConfiguracion;
 import java.lang.invoke.MethodHandles;
 import java.lang.reflect.Field;
 import java.util.ArrayList;

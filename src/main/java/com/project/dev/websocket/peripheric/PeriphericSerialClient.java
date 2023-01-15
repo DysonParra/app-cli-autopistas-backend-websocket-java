@@ -14,8 +14,8 @@
  */
 package com.project.dev.websocket.peripheric;
 
-import com.project.dev.websocket.model.Station;
 import com.project.dev.dummy.serial.generic.client.GenericSerialClient;
+import com.project.dev.websocket.model.Station;
 import lombok.Data;
 
 /**

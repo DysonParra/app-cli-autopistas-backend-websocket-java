@@ -14,11 +14,11 @@
  */
 package com.project.dev;
 
-import com.project.dev.backend.servicio.ServicioCategoria;
-import com.project.dev.backend.servicio.ServicioConfiguracion;
-import com.project.dev.backend.servicio.ServicioTransitoDinamica;
-import com.project.dev.backend.servicio.ServicioVehiculo;
-import com.project.dev.backend.servicio.ServicioVehiculoSobrepeso;
+import com.project.dev.api.servicio.ServicioCategoria;
+import com.project.dev.api.servicio.ServicioConfiguracion;
+import com.project.dev.api.servicio.ServicioTransitoDinamica;
+import com.project.dev.api.servicio.ServicioVehiculo;
+import com.project.dev.api.servicio.ServicioVehiculoSobrepeso;
 import com.project.dev.websocket.config.DataBaseConfig;
 import com.project.dev.websocket.controller.WebSocketController;
 import com.project.dev.websocket.model.Station;

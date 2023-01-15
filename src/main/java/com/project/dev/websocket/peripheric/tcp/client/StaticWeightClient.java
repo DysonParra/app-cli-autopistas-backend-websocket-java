@@ -14,12 +14,12 @@
  */
 package com.project.dev.websocket.peripheric.tcp.client;
 
+import com.project.dev.dummy.websocket.tcp.generic.client.ClientMessageListener;
+import com.project.dev.dummy.websocket.tcp.generic.client.GenericClient;
 import com.project.dev.websocket.model.element.GenericElement;
 import com.project.dev.websocket.model.element.InternCommandElement;
 import com.project.dev.websocket.model.front.StaticWeightMessage;
 import com.project.dev.websocket.peripheric.PeriphericTcpClient;
-import com.project.dev.dummy.websocket.tcp.generic.client.ClientMessageListener;
-import com.project.dev.dummy.websocket.tcp.generic.client.GenericClient;
 import java.net.Socket;
 import lombok.AccessLevel;
 import lombok.Data;

@@ -14,11 +14,11 @@
  */
 package com.project.dev.websocket.peripheric.serial;
 
+import com.project.dev.dummy.serial.generic.client.GenericSerialMessageListener;
 import com.project.dev.websocket.model.element.GenericElement;
 import com.project.dev.websocket.model.element.InternCommandElement;
 import com.project.dev.websocket.model.front.StaticWeightMessage;
 import com.project.dev.websocket.peripheric.PeriphericSerialClient;
-import com.project.dev.dummy.serial.generic.client.GenericSerialMessageListener;
 import lombok.AccessLevel;
 import lombok.Data;
 import lombok.Setter;

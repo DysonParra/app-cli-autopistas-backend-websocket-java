@@ -15,11 +15,11 @@
 package com.project.dev.websocket.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.project.dev.backend.servicio.dto.CategoriaDTO;
-import com.project.dev.websocket.model.Station;
-import com.project.dev.websocket.model.element.PlcCommandElement;
+import com.project.dev.api.dto.CategoriaDTO;
 import com.project.dev.dummy.printer.SocketPrinter;
 import com.project.dev.dummy.printer.objecttoprint.autopistasdelcafe.ticket.SocketTicket;
+import com.project.dev.websocket.model.Station;
+import com.project.dev.websocket.model.element.PlcCommandElement;
 import java.util.List;
 import lombok.NonNull;
 import org.springframework.messaging.handler.annotation.MessageMapping;
