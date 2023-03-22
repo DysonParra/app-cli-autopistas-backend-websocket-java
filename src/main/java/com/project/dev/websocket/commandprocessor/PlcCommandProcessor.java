@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PlcCommandProcessor} se encarga de realizar tareas específicas.
+ * @fileoverview    {PlcCommandProcessor}
  *
  * @version         2.0
  *

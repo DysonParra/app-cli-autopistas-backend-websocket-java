@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ServicioVehiculoSobrepeso} se encarga de realizar tareas específicas.
+ * @fileoverview    {ServicioVehiculoSobrepeso}
  *
  * @version         2.0
  *

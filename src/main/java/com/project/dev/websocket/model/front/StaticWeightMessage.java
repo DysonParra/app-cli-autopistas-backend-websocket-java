@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {StaticWeightMessage} se encarga de realizar tareas específicas.
+ * @fileoverview    {StaticWeightMessage}
  *
  * @version         2.0
  *

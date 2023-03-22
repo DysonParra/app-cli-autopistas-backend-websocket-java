@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ImgPrinter} se encarga de realizar tareas específicas.
+ * @fileoverview    {ImgPrinter}
  *
  * @version         2.0
  *

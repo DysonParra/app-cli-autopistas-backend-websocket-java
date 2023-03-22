@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {TxtPrinter} se encarga de realizar tareas específicas.
+ * @fileoverview    {TxtPrinter}
  *
  * @version         2.0
  *

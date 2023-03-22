@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {CustomCommadProcessor} se encarga de realizar tareas específicas.
+ * @fileoverview    {CustomCommadProcessor}
  *
  * @version         2.0
  *

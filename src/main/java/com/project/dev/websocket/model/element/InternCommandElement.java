@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {InternCommandElement} se encarga de realizar tareas específicas.
+ * @fileoverview    {InternCommandElement}
  *
  * @version         2.0
  *

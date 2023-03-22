@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {Station} se encarga de realizar tareas específicas.
+ * @fileoverview    {Station}
  *
  * @version         2.0
  *

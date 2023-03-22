@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {FrontMessage} se encarga de realizar tareas específicas.
+ * @fileoverview    {FrontMessage}
  *
  * @version         2.0
  *

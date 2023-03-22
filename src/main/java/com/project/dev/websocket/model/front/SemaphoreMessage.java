@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SemaphoreMessage} se encarga de realizar tareas específicas.
+ * @fileoverview    {SemaphoreMessage}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {CameraServer} se encarga de realizar tareas específicas.
+ * @fileoverview    {CameraServer}
  *
  * @version         2.0
  *

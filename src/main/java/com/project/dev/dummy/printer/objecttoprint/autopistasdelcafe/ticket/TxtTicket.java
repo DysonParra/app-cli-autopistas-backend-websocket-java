@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {TxtTicket} se encarga de realizar tareas específicas.
+ * @fileoverview    {TxtTicket}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {MapeoConfiguracion} se encarga de realizar tareas específicas.
+ * @fileoverview    {MapeoConfiguracion}
  *
  * @version         2.0
  *

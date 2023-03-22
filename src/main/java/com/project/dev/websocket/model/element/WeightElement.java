@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {WeightElement} se encarga de realizar tareas específicas.
+ * @fileoverview    {WeightElement}
  *
  * @version         2.0
  *

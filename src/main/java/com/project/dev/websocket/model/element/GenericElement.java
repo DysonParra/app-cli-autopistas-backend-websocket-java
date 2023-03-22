@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericElement} se encarga de realizar tareas específicas.
+ * @fileoverview    {GenericElement}
  *
  * @version         2.0
  *

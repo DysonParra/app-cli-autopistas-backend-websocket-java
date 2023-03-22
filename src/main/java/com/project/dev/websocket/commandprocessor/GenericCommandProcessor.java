@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericCommandProcessor} se encarga de realizar tareas específicas.
+ * @fileoverview    {GenericCommandProcessor}
  *
  * @version         2.0
  *

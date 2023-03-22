@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {StaticDisplayCommandProcessor} se encarga de realizar tareas específicas.
+ * @fileoverview    {StaticDisplayCommandProcessor}
  *
  * @version         2.0
  *

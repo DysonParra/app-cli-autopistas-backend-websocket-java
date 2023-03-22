@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PeriphericSerialClient} se encarga de realizar tareas específicas.
+ * @fileoverview    {PeriphericSerialClient}
  *
  * @version         2.0
  *

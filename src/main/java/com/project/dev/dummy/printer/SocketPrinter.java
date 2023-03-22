@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SocketPrinter} se encarga de realizar tareas específicas.
+ * @fileoverview    {SocketPrinter}
  *
  * @version         2.0
  *

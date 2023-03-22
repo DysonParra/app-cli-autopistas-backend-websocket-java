@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {Peripheric} se encarga de realizar tareas específicas.
+ * @fileoverview    {Peripheric}
  *
  * @version         2.0
  *

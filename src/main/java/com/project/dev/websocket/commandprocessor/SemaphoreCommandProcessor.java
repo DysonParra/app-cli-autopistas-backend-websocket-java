@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SemaphoreCommandProcessor} se encarga de realizar tareas específicas.
+ * @fileoverview    {SemaphoreCommandProcessor}
  *
  * @version         2.0
  *

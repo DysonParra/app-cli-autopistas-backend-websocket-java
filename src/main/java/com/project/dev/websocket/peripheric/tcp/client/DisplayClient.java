@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DisplayClient} se encarga de realizar tareas específicas.
+ * @fileoverview    {DisplayClient}
  *
  * @version         2.0
  *

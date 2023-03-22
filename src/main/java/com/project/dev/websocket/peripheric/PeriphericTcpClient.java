@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PeriphericTcpClient} se encarga de realizar tareas específicas.
+ * @fileoverview    {PeriphericTcpClient}
  *
  * @version         2.0
  *

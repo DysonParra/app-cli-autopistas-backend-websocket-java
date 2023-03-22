@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ServicioConfiguracion} se encarga de realizar tareas específicas.
+ * @fileoverview    {ServicioConfiguracion}
  *
  * @version         2.0
  *

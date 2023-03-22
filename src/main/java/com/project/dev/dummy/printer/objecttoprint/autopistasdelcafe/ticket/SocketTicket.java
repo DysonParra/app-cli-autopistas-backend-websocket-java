@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SocketTicket} se encarga de realizar tareas específicas.
+ * @fileoverview    {SocketTicket}
  *
  * @version         2.0
  *

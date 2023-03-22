@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericObjectToPrint} se encarga de realizar tareas específicas.
+ * @fileoverview    {GenericObjectToPrint}
  *
  * @version         2.0
  *

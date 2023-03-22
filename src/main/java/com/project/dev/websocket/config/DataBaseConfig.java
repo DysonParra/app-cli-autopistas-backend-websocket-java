@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DataBaseConfig} se encarga de realizar tareas específicas.
+ * @fileoverview    {DataBaseConfig}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {CameraPlateElement} se encarga de realizar tareas específicas.
+ * @fileoverview    {CameraPlateElement}
  *
  * @version         2.0
  *

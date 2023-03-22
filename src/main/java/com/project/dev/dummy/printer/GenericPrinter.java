@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericPrinter} se encarga de realizar tareas específicas.
+ * @fileoverview    {GenericPrinter}
  *
  * @version         2.0
  *

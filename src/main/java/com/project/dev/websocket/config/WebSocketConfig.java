@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {WebSocketConfig} se encarga de realizar tareas específicas.
+ * @fileoverview    {WebSocketConfig}
  *
  * @version         2.0
  *

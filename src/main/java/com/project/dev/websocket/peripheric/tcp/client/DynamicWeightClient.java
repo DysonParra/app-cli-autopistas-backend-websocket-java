@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DynamicWeightClient} se encarga de realizar tareas específicas.
+ * @fileoverview    {DynamicWeightClient}
  *
  * @version         2.0
  *

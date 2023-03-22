@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DynamicDisplayCommandProcessor} se encarga de realizar tareas específicas.
+ * @fileoverview    {DynamicDisplayCommandProcessor}
  *
  * @version         2.0
  *

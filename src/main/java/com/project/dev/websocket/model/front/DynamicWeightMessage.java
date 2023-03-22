@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DynamicWeightMessage} se encarga de realizar tareas específicas.
+ * @fileoverview    {DynamicWeightMessage}
  *
  * @version         2.0
  *

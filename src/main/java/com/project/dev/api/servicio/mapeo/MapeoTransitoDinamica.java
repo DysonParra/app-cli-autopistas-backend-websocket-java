@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {MapeoTransitoDinamica} se encarga de realizar tareas específicas.
+ * @fileoverview    {MapeoTransitoDinamica}
  *
  * @version         2.0
  *

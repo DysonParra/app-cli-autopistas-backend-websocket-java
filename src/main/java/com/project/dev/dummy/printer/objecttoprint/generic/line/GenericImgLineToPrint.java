@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericImgLineToPrint} se encarga de realizar tareas específicas.
+ * @fileoverview    {GenericImgLineToPrint}
  *
  * @version         2.0
  *

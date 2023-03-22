@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PlcServer} se encarga de realizar tareas específicas.
+ * @fileoverview    {PlcServer}
  *
  * @version         2.0
  *

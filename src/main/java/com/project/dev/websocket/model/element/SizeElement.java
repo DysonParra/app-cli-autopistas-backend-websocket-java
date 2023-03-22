@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SizeElement} se encarga de realizar tareas específicas.
+ * @fileoverview    {SizeElement}
  *
  * @version         2.0
  *

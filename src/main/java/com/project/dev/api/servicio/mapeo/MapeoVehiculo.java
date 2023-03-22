@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {MapeoVehiculo} se encarga de realizar tareas específicas.
+ * @fileoverview    {MapeoVehiculo}
  *
  * @version         2.0
  *

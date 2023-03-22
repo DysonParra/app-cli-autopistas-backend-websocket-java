@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {StaticWeightClient} se encarga de realizar tareas específicas.
+ * @fileoverview    {StaticWeightClient}
  *
  * @version         2.0
  *
