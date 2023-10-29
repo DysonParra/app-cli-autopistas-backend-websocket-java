@@ -23,7 +23,7 @@ import org.springframework.data.domain.Pageable;
  * TODO: Definición de {@code ServicioCategoria}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public interface ServicioCategoria extends ServicioGenerico<CategoriaDTO> {
 

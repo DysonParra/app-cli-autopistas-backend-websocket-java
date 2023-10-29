@@ -23,7 +23,7 @@ import lombok.NonNull;
  * TODO: Definición de {@code StaticDisplayCommandProcessor}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class StaticDisplayCommandProcessor implements GenericCommandProcessor<Boolean> {
 

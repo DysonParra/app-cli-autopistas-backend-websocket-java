@@ -30,7 +30,7 @@ import lombok.Setter;
  * TODO: Definición de {@code SocketPrinter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 //@AllArgsConstructor
 //@Builder

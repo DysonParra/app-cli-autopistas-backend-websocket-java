@@ -24,7 +24,7 @@ import com.project.dev.websocket.model.element.InternCommandElement;
  * TODO: Definición de {@code CustomCommadProcessor}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class CustomCommadProcessor implements GenericCommandProcessor<Boolean> {
 

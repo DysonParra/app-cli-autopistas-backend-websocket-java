@@ -24,7 +24,7 @@ import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
  * TODO: Definición de {@code WebSocketConfig}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @Configuration
 @EnableWebSocketMessageBroker

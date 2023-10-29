@@ -27,7 +27,7 @@ import org.springframework.stereotype.Repository;
  * TODO: Definición de {@code RepositorioConfiguracion}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @Repository
 public interface RepositorioConfiguracion extends JpaRepository<Configuracion, Long> {

@@ -23,7 +23,7 @@ import org.springframework.data.domain.Pageable;
  * TODO: Definición de {@code ServicioConfiguracion}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public interface ServicioConfiguracion extends ServicioGenerico<ConfiguracionDTO> {
 

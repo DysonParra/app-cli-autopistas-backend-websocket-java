@@ -43,7 +43,7 @@ import org.springframework.messaging.simp.SimpMessagingTemplate;
  * TODO: Definición de {@code Station}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @AllArgsConstructor
 @Builder

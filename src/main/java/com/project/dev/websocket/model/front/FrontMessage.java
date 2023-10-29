@@ -18,7 +18,7 @@ package com.project.dev.websocket.model.front;
  * TODO: Definición de {@code FrontMessage}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public interface FrontMessage {
 

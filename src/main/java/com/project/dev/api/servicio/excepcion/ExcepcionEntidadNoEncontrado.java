@@ -18,7 +18,7 @@ package com.project.dev.api.servicio.excepcion;
  * TODO: Definición de {@code ExcepcionEntidadNoEncontrado}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class ExcepcionEntidadNoEncontrado extends RuntimeException {
 

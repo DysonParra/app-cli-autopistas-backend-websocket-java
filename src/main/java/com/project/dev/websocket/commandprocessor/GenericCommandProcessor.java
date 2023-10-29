@@ -23,7 +23,7 @@ import lombok.NonNull;
  * @param <T>
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public interface GenericCommandProcessor<T> {
 

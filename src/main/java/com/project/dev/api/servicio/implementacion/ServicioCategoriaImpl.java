@@ -32,7 +32,7 @@ import org.springframework.transaction.annotation.Transactional;
  * TODO: Definición de {@code ServicioCategoriaImpl}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @Service
 @Transactional

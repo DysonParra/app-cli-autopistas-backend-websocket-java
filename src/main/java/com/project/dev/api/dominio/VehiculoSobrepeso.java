@@ -31,7 +31,7 @@ import lombok.NoArgsConstructor;
  * TODO: Definición de {@code VehiculoSobrepeso}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @Entity
 //@Table(name = "VehiculoSobrepeso", schema = "cardinal", catalog = "cardinal")

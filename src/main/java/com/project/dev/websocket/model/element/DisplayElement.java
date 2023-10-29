@@ -18,7 +18,7 @@ package com.project.dev.websocket.model.element;
  * TODO: Definición de {@code DisplayElement}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public interface DisplayElement {
 

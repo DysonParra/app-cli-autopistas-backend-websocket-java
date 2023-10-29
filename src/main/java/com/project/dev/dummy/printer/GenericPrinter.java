@@ -30,7 +30,7 @@ import javax.print.attribute.standard.Sides;
  * @param <U>
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public abstract class GenericPrinter<T, U> {
 

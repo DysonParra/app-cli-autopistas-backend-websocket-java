@@ -31,7 +31,7 @@ import static com.project.dev.websocket.config.DataBaseConfig.*;
  * TODO: Definición de {@code WebSocketController}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @Controller
 public class WebSocketController {

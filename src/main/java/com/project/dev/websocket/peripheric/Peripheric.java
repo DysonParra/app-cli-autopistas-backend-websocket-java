@@ -21,7 +21,7 @@ import com.project.dev.websocket.model.element.GenericElement;
  * TODO: Definición de {@code Peripheric}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public interface Peripheric extends Runnable {
 

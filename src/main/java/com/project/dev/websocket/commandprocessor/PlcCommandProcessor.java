@@ -28,7 +28,7 @@ import lombok.ToString;
  * TODO: Definición de {@code PlcCommandProcessor}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @ToString(exclude = {"commandsDescription", "commandsDescriptionMap"})
 public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {

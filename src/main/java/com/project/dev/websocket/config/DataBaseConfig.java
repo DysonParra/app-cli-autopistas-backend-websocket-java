@@ -25,7 +25,7 @@ import java.util.List;
  * TODO: Definición de {@code DataBaseConfig}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class DataBaseConfig {
 

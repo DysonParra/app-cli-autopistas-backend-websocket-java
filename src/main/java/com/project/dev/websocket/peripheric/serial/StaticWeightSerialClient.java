@@ -29,7 +29,7 @@ import static com.project.dev.websocket.peripheric.Peripheric.*;
  * TODO: Definición de {@code StaticWeightSerialClient}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 //@AllArgsConstructor
 //@Builder

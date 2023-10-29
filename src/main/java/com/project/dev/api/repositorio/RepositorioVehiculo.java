@@ -27,7 +27,7 @@ import org.springframework.stereotype.Repository;
  * TODO: Definición de {@code RepositorioVehiculo}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @Repository
 public interface RepositorioVehiculo extends JpaRepository<Vehiculo, String> {

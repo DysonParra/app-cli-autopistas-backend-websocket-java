@@ -24,7 +24,7 @@ import java.util.List;
  * @param <E> - Entity type parameter.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public interface MapeoEntidadesGenerico<D, E> {
 
