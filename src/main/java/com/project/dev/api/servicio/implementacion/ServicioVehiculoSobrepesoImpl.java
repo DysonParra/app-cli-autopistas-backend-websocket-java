@@ -30,7 +30,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * TODO: Definición de {@code ServicioVehiculoSobrepesoImpl}.
+ * TODO: Description of {@code ServicioVehiculoSobrepesoImpl}.
  *
  * @author Dyson Parra
  * @since 11
@@ -46,7 +46,7 @@ public class ServicioVehiculoSobrepesoImpl implements ServicioVehiculoSobrepeso 
     private final MapeoVehiculoSobrepeso mapeoEntidad = Mappers.getMapper(MapeoVehiculoSobrepeso.class);
 
     /**
-     * TODO: Definición de {@code ServicioVehiculoSobrepesoImpl}.
+     * TODO: Description of {@code ServicioVehiculoSobrepesoImpl}.
      *
      * @param repositorioEntidad
      */
@@ -55,7 +55,7 @@ public class ServicioVehiculoSobrepesoImpl implements ServicioVehiculoSobrepeso 
     }
 
     /**
-     * TODO: Definición de {@code guardarActualizar}.
+     * TODO: Description of {@code guardarActualizar}.
      *
      */
     @Override
@@ -71,7 +71,7 @@ public class ServicioVehiculoSobrepesoImpl implements ServicioVehiculoSobrepeso 
     }
 
     /**
-     * TODO: Definición de {@code obtenerEntidades}.
+     * TODO: Description of {@code obtenerEntidades}.
      *
      */
     @Override
@@ -81,7 +81,7 @@ public class ServicioVehiculoSobrepesoImpl implements ServicioVehiculoSobrepeso 
     }
 
     /**
-     * TODO: Definición de {@code buscarEntidad}.
+     * TODO: Description of {@code buscarEntidad}.
      *
      */
     @Override
@@ -93,7 +93,7 @@ public class ServicioVehiculoSobrepesoImpl implements ServicioVehiculoSobrepeso 
     }
 
     /**
-     * TODO: Definición de {@code obtenerEntidades}.
+     * TODO: Description of {@code obtenerEntidades}.
      *
      * @param strId
      * @return
@@ -106,7 +106,7 @@ public class ServicioVehiculoSobrepesoImpl implements ServicioVehiculoSobrepeso 
     }
 
     /**
-     * TODO: Definición de {@code obtenerEntidades}.
+     * TODO: Description of {@code obtenerEntidades}.
      *
      * @param pageable
      * @return
@@ -119,7 +119,7 @@ public class ServicioVehiculoSobrepesoImpl implements ServicioVehiculoSobrepeso 
     }
 
     /**
-     * TODO: Definición de {@code eliminarEntidad}.
+     * TODO: Description of {@code eliminarEntidad}.
      *
      */
     @Override
@@ -129,7 +129,7 @@ public class ServicioVehiculoSobrepesoImpl implements ServicioVehiculoSobrepeso 
     }
 
     /**
-     * TODO: Definición de {@code query}.
+     * TODO: Description of {@code query}.
      *
      * @param query
      * @param pageable

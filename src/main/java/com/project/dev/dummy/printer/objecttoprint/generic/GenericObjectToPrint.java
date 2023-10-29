@@ -17,7 +17,7 @@ package com.project.dev.dummy.printer.objecttoprint.generic;
 import java.util.List;
 
 /**
- * TODO: Definición de {@code GenericObjectToPrint}.
+ * TODO: Description of {@code GenericObjectToPrint}.
  *
  * @param <T>
  *
@@ -27,7 +27,7 @@ import java.util.List;
 public interface GenericObjectToPrint<T> {
 
     /**
-     * TODO: Definición de {@code makeListToPrint}.
+     * TODO: Description of {@code makeListToPrint}.
      *
      * @return
      */

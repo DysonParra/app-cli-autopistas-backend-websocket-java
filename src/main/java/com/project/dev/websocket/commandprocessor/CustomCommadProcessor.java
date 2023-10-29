@@ -21,7 +21,7 @@ import com.project.dev.websocket.model.element.DisplaySpeedElement;
 import com.project.dev.websocket.model.element.InternCommandElement;
 
 /**
- * TODO: Definición de {@code CustomCommadProcessor}.
+ * TODO: Description of {@code CustomCommadProcessor}.
  *
  * @author Dyson Parra
  * @since 11
@@ -29,7 +29,7 @@ import com.project.dev.websocket.model.element.InternCommandElement;
 public class CustomCommadProcessor implements GenericCommandProcessor<Boolean> {
 
     /**
-     * TODO: Definición de {@code processCommand}.
+     * TODO: Description of {@code processCommand}.
      *
      * @param plcCommand
      * @param station

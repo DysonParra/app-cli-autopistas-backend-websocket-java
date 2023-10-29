@@ -28,7 +28,7 @@ import javax.print.SimpleDoc;
 import javax.print.attribute.HashPrintRequestAttributeSet;
 
 /**
- * TODO: Definición de {@code TxtPrinter}.
+ * TODO: Description of {@code TxtPrinter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ import javax.print.attribute.HashPrintRequestAttributeSet;
 public class TxtPrinter extends GenericPrinter<String, String> {
 
     /**
-     * TODO: Definición de {@code printObject}.
+     * TODO: Description of {@code printObject}.
      *
      * @param printerName
      * @param objectToPrint

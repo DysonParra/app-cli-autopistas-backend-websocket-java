@@ -34,7 +34,7 @@ import lombok.NoArgsConstructor;
 import lombok.NonNull;
 
 /**
- * TODO: Definición de {@code PlcServer}.
+ * TODO: Description of {@code PlcServer}.
  *
  * @author Dyson Parra
  * @since 11
@@ -50,7 +50,7 @@ public class PlcServer extends PeriphericTcpServer {
     protected final List<PlcCommandElement> plcRequests = new ArrayList<>();
 
     /**
-     * TODO: Definición de {@code PlcServer}.
+     * TODO: Description of {@code PlcServer}.
      *
      * @param plcPort
      */
@@ -157,7 +157,7 @@ public class PlcServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Definición de {@code sendInitCommands}.
+     * TODO: Description of {@code sendInitCommands}.
      *
      * @param client
      * @param sender
@@ -196,7 +196,7 @@ public class PlcServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Definición de {@code validateAndClear}.
+     * TODO: Description of {@code validateAndClear}.
      *
      */
     @Override
@@ -213,7 +213,7 @@ public class PlcServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Definición de {@code getInfo}.
+     * TODO: Description of {@code getInfo}.
      *
      * @param type
      * @return
@@ -240,7 +240,7 @@ public class PlcServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Definición de {@code sendInfo}.
+     * TODO: Description of {@code sendInfo}.
      *
      * @param info
      * @return

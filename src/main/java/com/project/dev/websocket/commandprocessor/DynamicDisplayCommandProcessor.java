@@ -22,7 +22,7 @@ import java.util.Queue;
 import lombok.NonNull;
 
 /**
- * TODO: Definición de {@code DynamicDisplayCommandProcessor}.
+ * TODO: Description of {@code DynamicDisplayCommandProcessor}.
  *
  * @author Dyson Parra
  * @since 11
@@ -32,7 +32,7 @@ public class DynamicDisplayCommandProcessor implements GenericCommandProcessor<B
     protected final Queue<String> dynamicDisplayQueue = new LinkedList<>();
 
     /**
-     * TODO: Definición de {@code processCommand}.
+     * TODO: Description of {@code processCommand}.
      *
      * @param plcCommand
      * @param station

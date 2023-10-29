@@ -24,7 +24,7 @@ import javax.print.attribute.PrintRequestAttributeSet;
 import javax.print.attribute.standard.Sides;
 
 /**
- * TODO: Definición de {@code GenericPrinter}.
+ * TODO: Description of {@code GenericPrinter}.
  *
  * @param <T>
  * @param <U>
@@ -35,7 +35,7 @@ import javax.print.attribute.standard.Sides;
 public abstract class GenericPrinter<T, U> {
 
     /**
-     * TODO: Definición de {@code getPrinters}.
+     * TODO: Description of {@code getPrinters}.
      *
      */
     public void getPrinters() {
@@ -47,7 +47,7 @@ public abstract class GenericPrinter<T, U> {
     }
 
     /**
-     * TODO: Definición de {@code getPrintService}.
+     * TODO: Description of {@code getPrintService}.
      *
      * @param printerName
      * @return

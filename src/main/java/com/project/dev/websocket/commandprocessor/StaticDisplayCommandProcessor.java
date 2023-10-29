@@ -20,7 +20,7 @@ import com.project.dev.websocket.peripheric.Peripheric;
 import lombok.NonNull;
 
 /**
- * TODO: Definición de {@code StaticDisplayCommandProcessor}.
+ * TODO: Description of {@code StaticDisplayCommandProcessor}.
  *
  * @author Dyson Parra
  * @since 11
@@ -28,7 +28,7 @@ import lombok.NonNull;
 public class StaticDisplayCommandProcessor implements GenericCommandProcessor<Boolean> {
 
     /**
-     * TODO: Definición de {@code processCommand}.
+     * TODO: Description of {@code processCommand}.
      *
      * @param plcCommand
      * @param station

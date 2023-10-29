@@ -18,7 +18,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code DisplayMessageElement}.
+ * TODO: Description of {@code DisplayMessageElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ public class DisplayMessageElement extends GenericElement implements DisplayElem
     private String message;
 
     /**
-     * TODO: Definición de {@code DisplayMessageElement}.
+     * TODO: Description of {@code DisplayMessageElement}.
      *
      * @param sender
      * @param message
@@ -48,7 +48,7 @@ public class DisplayMessageElement extends GenericElement implements DisplayElem
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextMessage}.
+     * TODO: Description of {@code getPrintTextMessage}.
      *
      * @return
      */
@@ -73,7 +73,7 @@ public class DisplayMessageElement extends GenericElement implements DisplayElem
     }
 
     /**
-     * TODO: Definición de {@code isSpeed}.
+     * TODO: Description of {@code isSpeed}.
      *
      * @return
      */

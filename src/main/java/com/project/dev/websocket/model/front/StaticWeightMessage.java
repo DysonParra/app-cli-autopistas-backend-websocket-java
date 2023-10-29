@@ -20,7 +20,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code StaticWeightMessage}.
+ * TODO: Description of {@code StaticWeightMessage}.
  *
  * @author Dyson Parra
  * @since 11

@@ -25,7 +25,7 @@ import lombok.NonNull;
 import lombok.ToString;
 
 /**
- * TODO: Definición de {@code PlcCommandProcessor}.
+ * TODO: Description of {@code PlcCommandProcessor}.
  *
  * @author Dyson Parra
  * @since 11
@@ -81,7 +81,7 @@ public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {
                     Collectors.toMap(data -> data[0][0], data -> data[1]));
 
     /**
-     * TODO: Definición de {@code PlcCommandProcessor}.
+     * TODO: Description of {@code PlcCommandProcessor}.
      *
      */
     public PlcCommandProcessor() {
@@ -91,7 +91,7 @@ public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {
     }
 
     /**
-     * TODO: Definición de {@code printCommandDescription}.
+     * TODO: Description of {@code printCommandDescription}.
      *
      * @param plcCommand
      */
@@ -106,7 +106,7 @@ public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {
     }
 
     /**
-     * TODO: Definición de {@code printAllCommandsDescription}.
+     * TODO: Description of {@code printAllCommandsDescription}.
      *
      */
     public void printAllCommandsDescription() {
@@ -116,7 +116,7 @@ public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {
     }
 
     /**
-     * TODO: Definición de {@code processCommand}.
+     * TODO: Description of {@code processCommand}.
      *
      * @param plcCommand
      * @param station

@@ -18,7 +18,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code WeightElement}.
+ * TODO: Description of {@code WeightElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ public class WeightElement extends GenericElement {
     private int weight;
 
     /**
-     * TODO: Definición de {@code WeightElement}.
+     * TODO: Description of {@code WeightElement}.
      *
      * @param sender
      * @param weight
@@ -48,7 +48,7 @@ public class WeightElement extends GenericElement {
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextWeight}.
+     * TODO: Description of {@code getPrintTextWeight}.
      *
      * @return
      */

@@ -18,7 +18,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code InternCommandElement}.
+ * TODO: Description of {@code InternCommandElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -40,7 +40,7 @@ public class InternCommandElement extends GenericElement {
     private String internCommand;
 
     /**
-     * TODO: Definición de {@code InternCommandElement}.
+     * TODO: Description of {@code InternCommandElement}.
      *
      * @param sender
      * @param internCommand
@@ -52,7 +52,7 @@ public class InternCommandElement extends GenericElement {
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextInternCommand}.
+     * TODO: Description of {@code getPrintTextInternCommand}.
      *
      * @return
      */

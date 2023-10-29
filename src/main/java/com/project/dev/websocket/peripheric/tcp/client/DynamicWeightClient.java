@@ -37,7 +37,7 @@ import java.util.Queue;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code DynamicWeightClient}.
+ * TODO: Description of {@code DynamicWeightClient}.
  *
  * @author Dyson Parra
  * @since 11
@@ -55,7 +55,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     protected int lastTotalWeight = 0;
 
     /**
-     * TODO: Definición de {@code DynamicWeightClient}.
+     * TODO: Description of {@code DynamicWeightClient}.
      *
      * @param serverIpAddress
      * @param serverPort
@@ -98,7 +98,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code getDynamicWeightAsMessage}.
+     * TODO: Description of {@code getDynamicWeightAsMessage}.
      *
      * @param weightInfo
      * @return
@@ -180,7 +180,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code validateOverweightAndInsert}.
+     * TODO: Description of {@code validateOverweightAndInsert}.
      *
      * @param dynamicWeightMessage
      */
@@ -347,7 +347,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code validateAndClear}.
+     * TODO: Description of {@code validateAndClear}.
      *
      */
     @Override
@@ -356,7 +356,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code getInfo}.
+     * TODO: Description of {@code getInfo}.
      *
      * @param type
      * @return
@@ -374,7 +374,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code sendInfo}.
+     * TODO: Description of {@code sendInfo}.
      *
      * @param info
      * @return

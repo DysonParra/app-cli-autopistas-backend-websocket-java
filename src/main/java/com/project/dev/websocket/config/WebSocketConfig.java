@@ -21,7 +21,7 @@ import org.springframework.web.socket.config.annotation.EnableWebSocketMessageBr
 import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
 
 /**
- * TODO: Definición de {@code WebSocketConfig}.
+ * TODO: Description of {@code WebSocketConfig}.
  *
  * @author Dyson Parra
  * @since 11
@@ -31,7 +31,7 @@ import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
 public class WebSocketConfig extends AbstractWebSocketMessageBrokerConfigurer {
 
     /**
-     * TODO: Definición de {@code registerStompEndpoints}.
+     * TODO: Description of {@code registerStompEndpoints}.
      *
      * @param registry
      */
@@ -43,7 +43,7 @@ public class WebSocketConfig extends AbstractWebSocketMessageBrokerConfigurer {
     }
 
     /**
-     * TODO: Definición de {@code configureMessageBroker}.
+     * TODO: Description of {@code configureMessageBroker}.
      *
      * @param registry
      */

@@ -18,7 +18,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code CameraPlateElement}.
+ * TODO: Description of {@code CameraPlateElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -37,7 +37,7 @@ public class CameraPlateElement extends GenericElement {
     private String imgPlate;
 
     /**
-     * TODO: Definición de {@code CameraPlateElement}.
+     * TODO: Description of {@code CameraPlateElement}.
      *
      * @param sender
      * @param imgPlate
@@ -51,7 +51,7 @@ public class CameraPlateElement extends GenericElement {
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextTxtPlate}.
+     * TODO: Description of {@code getPrintTextTxtPlate}.
      *
      * @return
      */
@@ -60,7 +60,7 @@ public class CameraPlateElement extends GenericElement {
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextImgPlate}.
+     * TODO: Description of {@code getPrintTextImgPlate}.
      *
      * @return
      */

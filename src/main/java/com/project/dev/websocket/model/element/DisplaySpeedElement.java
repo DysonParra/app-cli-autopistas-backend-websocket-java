@@ -18,7 +18,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code DisplaySpeedElement}.
+ * TODO: Description of {@code DisplaySpeedElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ public class DisplaySpeedElement extends GenericElement implements DisplayElemen
     private int speed;
 
     /**
-     * TODO: Definición de {@code DisplaySpeedElement}.
+     * TODO: Description of {@code DisplaySpeedElement}.
      *
      * @param sender
      * @param speed
@@ -48,7 +48,7 @@ public class DisplaySpeedElement extends GenericElement implements DisplayElemen
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextSpeed}.
+     * TODO: Description of {@code getPrintTextSpeed}.
      *
      * @return
      */
@@ -73,7 +73,7 @@ public class DisplaySpeedElement extends GenericElement implements DisplayElemen
     }
 
     /**
-     * TODO: Definición de {@code getMessage}.
+     * TODO: Description of {@code getMessage}.
      *
      * @return
      */
@@ -83,7 +83,7 @@ public class DisplaySpeedElement extends GenericElement implements DisplayElemen
     }
 
     /**
-     * TODO: Definición de {@code isSpeed}.
+     * TODO: Description of {@code isSpeed}.
      *
      * @return
      */

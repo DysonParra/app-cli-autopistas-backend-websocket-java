@@ -18,7 +18,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code SizeElement}.
+ * TODO: Description of {@code SizeElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ public class SizeElement extends GenericElement {
     private int size;
 
     /**
-     * TODO: Definición de {@code SizeElement}.
+     * TODO: Description of {@code SizeElement}.
      *
      * @param sender
      * @param size
@@ -48,7 +48,7 @@ public class SizeElement extends GenericElement {
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextSize}.
+     * TODO: Description of {@code getPrintTextSize}.
      *
      * @return
      */

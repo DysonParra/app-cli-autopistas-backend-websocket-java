@@ -27,7 +27,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * TODO: Definición de {@code SocketPrinter}.
+ * TODO: Description of {@code SocketPrinter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -51,7 +51,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     protected final Object synchronizer = new Object();
 
     /**
-     * TODO: Definición de {@code SocketPrinter}.
+     * TODO: Description of {@code SocketPrinter}.
      *
      */
     public SocketPrinter() {
@@ -60,7 +60,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code SocketPrinter}.
+     * TODO: Description of {@code SocketPrinter}.
      *
      * @param printerSocket
      */
@@ -72,7 +72,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code SocketPrinter}.
+     * TODO: Description of {@code SocketPrinter}.
      *
      * @param printerIpAddress
      * @param printerPort
@@ -87,7 +87,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code connectToServer}.
+     * TODO: Description of {@code connectToServer}.
      *
      * @param printerIpAddress
      * @param printerPort
@@ -126,7 +126,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code printObject}.
+     * TODO: Description of {@code printObject}.
      *
      * @param printerSocket
      * @param objectToPrint
@@ -158,7 +158,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code printObject}.
+     * TODO: Description of {@code printObject}.
      *
      * @param objectToPrint
      * @throws javax.print.PrintException
@@ -171,7 +171,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code printObject}.
+     * TODO: Description of {@code printObject}.
      *
      * @param printerIpAddress
      * @param objectToPrint
@@ -188,7 +188,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code sendCommand}.
+     * TODO: Description of {@code sendCommand}.
      *
      * @param printerCout
      * @param command
@@ -198,7 +198,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code setFontSize}.
+     * TODO: Description of {@code setFontSize}.
      *
      * @param printerCout
      * @param fontSize
@@ -208,7 +208,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code setAlign}.
+     * TODO: Description of {@code setAlign}.
      *
      * @param printerCout
      * @param align
@@ -236,7 +236,7 @@ public class SocketPrinter extends GenericPrinter<Socket, String> {
     }
 
     /**
-     * TODO: Definición de {@code endPrint}.
+     * TODO: Description of {@code endPrint}.
      *
      * @param printerCout
      */

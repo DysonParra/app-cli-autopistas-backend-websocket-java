@@ -20,7 +20,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code DynamicWeightMessage}.
+ * TODO: Description of {@code DynamicWeightMessage}.
  *
  * @author Dyson Parra
  * @since 11

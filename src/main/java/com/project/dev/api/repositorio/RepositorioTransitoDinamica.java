@@ -24,7 +24,7 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
 /**
- * TODO: Definición de {@code RepositorioTransitoDinamica}.
+ * TODO: Description of {@code RepositorioTransitoDinamica}.
  *
  * @author Dyson Parra
  * @since 11

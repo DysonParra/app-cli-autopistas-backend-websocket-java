@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * TODO: Definición de {@code ImgTicket}.
+ * TODO: Description of {@code ImgTicket}.
  *
  * @author Dyson Parra
  * @since 11
@@ -30,7 +30,7 @@ import java.util.List;
 public class ImgTicket implements GenericObjectToPrint<GenericImgLineToPrint> {
 
     /**
-     * TODO: Definición de {@code makeListToPrint}.
+     * TODO: Description of {@code makeListToPrint}.
      *
      * @return
      */

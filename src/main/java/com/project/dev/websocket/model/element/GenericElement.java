@@ -19,7 +19,7 @@ import java.util.Date;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code GenericElement}.
+ * TODO: Description of {@code GenericElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -45,7 +45,7 @@ public abstract class GenericElement {
     protected Date recoveryDate = new Date();
 
     /**
-     * TODO: Definición de {@code GenericElement}.
+     * TODO: Description of {@code GenericElement}.
      *
      * @param sender
      */
@@ -54,7 +54,7 @@ public abstract class GenericElement {
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextSender}.
+     * TODO: Description of {@code getPrintTextSender}.
      *
      * @return
      */
@@ -63,7 +63,7 @@ public abstract class GenericElement {
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextRecoveryDate}.
+     * TODO: Description of {@code getPrintTextRecoveryDate}.
      *
      * @return
      */

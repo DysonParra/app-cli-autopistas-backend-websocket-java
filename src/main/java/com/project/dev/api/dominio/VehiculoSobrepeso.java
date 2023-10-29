@@ -28,7 +28,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code VehiculoSobrepeso}.
+ * TODO: Description of {@code VehiculoSobrepeso}.
  *
  * @author Dyson Parra
  * @since 11

@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * TODO: Definición de {@code TxtTicket}.
+ * TODO: Description of {@code TxtTicket}.
  *
  * @author Dyson Parra
  * @since 11
@@ -27,7 +27,7 @@ import java.util.List;
 public class TxtTicket implements GenericObjectToPrint<String> {
 
     /**
-     * TODO: Definición de {@code makeListToPrint}.
+     * TODO: Description of {@code makeListToPrint}.
      *
      * @return
      */

@@ -28,7 +28,7 @@ import lombok.Setter;
 import static com.project.dev.websocket.peripheric.Peripheric.*;
 
 /**
- * TODO: Definición de {@code StaticWeightClient}.
+ * TODO: Description of {@code StaticWeightClient}.
  *
  * @author Dyson Parra
  * @since 11
@@ -44,7 +44,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     protected int lastTotalWeight = 0;
 
     /**
-     * TODO: Definición de {@code StaticWeightClient}.
+     * TODO: Description of {@code StaticWeightClient}.
      *
      * @param serverIpAddress
      * @param serverPort
@@ -93,7 +93,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code getScaleNumber}.
+     * TODO: Description of {@code getScaleNumber}.
      *
      * @param message
      * @return
@@ -115,7 +115,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code validateAndClear}.
+     * TODO: Description of {@code validateAndClear}.
      *
      */
     @Override
@@ -129,7 +129,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code getInfo}.
+     * TODO: Description of {@code getInfo}.
      *
      * @param type
      * @return
@@ -147,7 +147,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code sendInfo}.
+     * TODO: Description of {@code sendInfo}.
      *
      * @param info
      * @return

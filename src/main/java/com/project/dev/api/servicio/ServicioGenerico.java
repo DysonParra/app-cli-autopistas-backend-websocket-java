@@ -17,7 +17,7 @@ package com.project.dev.api.servicio;
 import java.util.List;
 
 /**
- * TODO: Definición de {@code ServicioGenerico}.
+ * TODO: Description of {@code ServicioGenerico}.
  *
  * @param <T>
  *

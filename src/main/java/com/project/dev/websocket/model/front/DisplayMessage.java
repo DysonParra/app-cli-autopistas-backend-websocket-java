@@ -20,7 +20,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code DisplayMessage}.
+ * TODO: Description of {@code DisplayMessage}.
  *
  * @author Dyson Parra
  * @since 11

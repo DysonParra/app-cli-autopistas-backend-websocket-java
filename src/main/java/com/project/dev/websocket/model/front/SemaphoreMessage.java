@@ -20,7 +20,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code SemaphoreMessage}.
+ * TODO: Description of {@code SemaphoreMessage}.
  *
  * @author Dyson Parra
  * @since 11

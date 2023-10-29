@@ -19,7 +19,7 @@ import java.awt.Font;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code GenericImgLineToPrint}.
+ * TODO: Description of {@code GenericImgLineToPrint}.
  *
  * @author Dyson Parra
  * @since 11
@@ -35,7 +35,7 @@ public class GenericImgLineToPrint {
     private String text;
 
     /**
-     * TODO: Definición de {@code GenericImgLineToPrint}.
+     * TODO: Description of {@code GenericImgLineToPrint}.
      *
      */
     public GenericImgLineToPrint() {
@@ -43,7 +43,7 @@ public class GenericImgLineToPrint {
     }
 
     /**
-     * TODO: Definición de {@code GenericImgLineToPrint}.
+     * TODO: Description of {@code GenericImgLineToPrint}.
      *
      * @param font
      * @param text

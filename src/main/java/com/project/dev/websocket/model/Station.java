@@ -40,7 +40,7 @@ import lombok.NonNull;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 
 /**
- * TODO: Definición de {@code Station}.
+ * TODO: Description of {@code Station}.
  *
  * @author Dyson Parra
  * @since 11
@@ -87,7 +87,7 @@ public class Station {
     private ServicioVehiculo servicioVehiculo;
 
     /**
-     * TODO: Definición de {@code getLastCommandQuantity}.
+     * TODO: Description of {@code getLastCommandQuantity}.
      *
      * @return
      */
@@ -96,7 +96,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code setLastCommandQuantity}.
+     * TODO: Description of {@code setLastCommandQuantity}.
      *
      * @param newCommandQuantity
      */
@@ -116,7 +116,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code getStationState}.
+     * TODO: Description of {@code getStationState}.
      *
      * @return
      */
@@ -125,7 +125,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code updateStationState}.
+     * TODO: Description of {@code updateStationState}.
      *
      */
     public void updateStationState() {
@@ -139,7 +139,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code addPeripheric}.
+     * TODO: Description of {@code addPeripheric}.
      *
      * @param peripheric
      */
@@ -186,7 +186,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code getPeripheric}.
+     * TODO: Description of {@code getPeripheric}.
      *
      * @param id
      * @return
@@ -201,7 +201,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code getPeriphericInfo}.
+     * TODO: Description of {@code getPeriphericInfo}.
      *
      * @param id
      * @param getType
@@ -222,7 +222,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code sendInfoToPeripheric}.
+     * TODO: Description of {@code sendInfoToPeripheric}.
      *
      * @param id
      * @param info
@@ -245,7 +245,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code startPeripherics}.
+     * TODO: Description of {@code startPeripherics}.
      *
      */
     public void startPeripherics() {
@@ -259,7 +259,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code validateAndClearPeripherics}.
+     * TODO: Description of {@code validateAndClearPeripherics}.
      *
      */
     public void validateAndClearPeripherics() {
@@ -269,7 +269,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code sendMessageToFront}.
+     * TODO: Description of {@code sendMessageToFront}.
      *
      * @param message
      */
@@ -282,7 +282,7 @@ public class Station {
     }
 
     /**
-     * TODO: Definición de {@code sendMessageToFront}.
+     * TODO: Description of {@code sendMessageToFront}.
      *
      * @param message
      */

@@ -20,7 +20,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code CameraMessage}.
+ * TODO: Description of {@code CameraMessage}.
  *
  * @author Dyson Parra
  * @since 11

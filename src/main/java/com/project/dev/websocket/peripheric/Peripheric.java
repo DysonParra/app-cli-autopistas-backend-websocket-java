@@ -18,7 +18,7 @@ import com.project.dev.websocket.model.Station;
 import com.project.dev.websocket.model.element.GenericElement;
 
 /**
- * TODO: Definición de {@code Peripheric}.
+ * TODO: Description of {@code Peripheric}.
  *
  * @author Dyson Parra
  * @since 11
@@ -62,69 +62,69 @@ public interface Peripheric extends Runnable {
     public static final String TYPE_PLC = "PLC";
 
     /**
-     * TODO: Definición de {@code getId}.
+     * TODO: Description of {@code getId}.
      *
      * @return
      */
     public abstract String getId();
 
     /**
-     * TODO: Definición de {@code setId}.
+     * TODO: Description of {@code setId}.
      *
      * @param id
      */
     public abstract void setId(String id);
 
     /**
-     * TODO: Definición de {@code getType}.
+     * TODO: Description of {@code getType}.
      *
      * @return
      */
     public abstract String getType();
 
     /**
-     * TODO: Definición de {@code setType}.
+     * TODO: Description of {@code setType}.
      *
      * @param id
      */
     public abstract void setType(String id);
 
     /**
-     * TODO: Definición de {@code getNumberOfThisType}.
+     * TODO: Description of {@code getNumberOfThisType}.
      *
      * @return
      */
     public abstract int getNumberOfThisType();
 
     /**
-     * TODO: Definición de {@code setNumberOfThisType}.
+     * TODO: Description of {@code setNumberOfThisType}.
      *
      * @param numberOfThisType
      */
     public abstract void setNumberOfThisType(int numberOfThisType);
 
     /**
-     * TODO: Definición de {@code getStation}.
+     * TODO: Description of {@code getStation}.
      *
      * @return
      */
     public abstract Station getStation();
 
     /**
-     * TODO: Definición de {@code setStation}.
+     * TODO: Description of {@code setStation}.
      *
      * @param station
      */
     public abstract void setStation(Station station);
 
     /**
-     * TODO: Definición de {@code validateAndClear}.
+     * TODO: Description of {@code validateAndClear}.
      *
      */
     public abstract void validateAndClear();
 
     /**
-     * TODO: Definición de {@code getInfo}.
+     * TODO: Description of {@code getInfo}.
      *
      * @param getType
      * @return
@@ -132,7 +132,7 @@ public interface Peripheric extends Runnable {
     public abstract Object getInfo(String getType);
 
     /**
-     * TODO: Definición de {@code sendInfo}.
+     * TODO: Description of {@code sendInfo}.
      *
      * @param info
      * @return

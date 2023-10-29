@@ -19,7 +19,7 @@ import com.project.dev.websocket.model.Station;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code PeriphericSerialClient}.
+ * TODO: Description of {@code PeriphericSerialClient}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ public abstract class PeriphericSerialClient extends GenericSerialClient impleme
     protected Station station = Station.builder().build();
 
     /**
-     * TODO: Definición de {@code PeriphericSerialClient}.
+     * TODO: Description of {@code PeriphericSerialClient}.
      *
      * @param portName
      * @param parity
@@ -49,7 +49,7 @@ public abstract class PeriphericSerialClient extends GenericSerialClient impleme
     }
 
     /**
-     * TODO: Definición de {@code setNumberOfThisType}.
+     * TODO: Description of {@code setNumberOfThisType}.
      *
      * @param numberOfThisType
      */

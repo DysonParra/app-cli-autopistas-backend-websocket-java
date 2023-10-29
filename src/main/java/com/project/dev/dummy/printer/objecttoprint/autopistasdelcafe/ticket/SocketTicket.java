@@ -23,7 +23,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code SocketTicket}.
+ * TODO: Description of {@code SocketTicket}.
  *
  * @author Dyson Parra
  * @since 11
@@ -45,7 +45,7 @@ public class SocketTicket implements GenericObjectToPrint<String> {
     private String placa;
 
     /**
-     * TODO: Definición de {@code makeListToPrint}.
+     * TODO: Description of {@code makeListToPrint}.
      *
      * @return
      */
@@ -106,7 +106,7 @@ public class SocketTicket implements GenericObjectToPrint<String> {
     }
 
     /**
-     * TODO: Definición de {@code makeLineToPrint}.
+     * TODO: Description of {@code makeLineToPrint}.
      *
      * @param value
      * @return

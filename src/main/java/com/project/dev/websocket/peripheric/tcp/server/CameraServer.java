@@ -24,7 +24,7 @@ import java.util.Queue;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code CameraServer}.
+ * TODO: Description of {@code CameraServer}.
  *
  * @author Dyson Parra
  * @since 11
@@ -41,7 +41,7 @@ public class CameraServer extends PeriphericTcpServer {
     protected String lastDynamPlates = "";
 
     /**
-     * TODO: Definición de {@code CameraServer}.
+     * TODO: Description of {@code CameraServer}.
      *
      * @param port
      */
@@ -94,7 +94,7 @@ public class CameraServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Definición de {@code validateAndClear}.
+     * TODO: Description of {@code validateAndClear}.
      *
      */
     @Override
@@ -131,7 +131,7 @@ public class CameraServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Definición de {@code getInfo}.
+     * TODO: Description of {@code getInfo}.
      *
      * @param type
      * @return
@@ -170,7 +170,7 @@ public class CameraServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Definición de {@code sendInfo}.
+     * TODO: Description of {@code sendInfo}.
      *
      * @param info
      * @return

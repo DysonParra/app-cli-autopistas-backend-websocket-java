@@ -18,7 +18,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code PlcCommandElement}.
+ * TODO: Description of {@code PlcCommandElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ public class PlcCommandElement extends GenericElement {
     private String command;
 
     /**
-     * TODO: Definición de {@code PlcCommandElement}.
+     * TODO: Description of {@code PlcCommandElement}.
      *
      * @param sender
      * @param command
@@ -49,7 +49,7 @@ public class PlcCommandElement extends GenericElement {
     }
 
     /**
-     * TODO: Definición de {@code getPrintTextCommand}.
+     * TODO: Description of {@code getPrintTextCommand}.
      *
      * @return
      */

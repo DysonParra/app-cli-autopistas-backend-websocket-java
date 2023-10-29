@@ -15,7 +15,7 @@
 package com.project.dev.websocket.model.front;
 
 /**
- * TODO: Definición de {@code FrontMessage}.
+ * TODO: Description of {@code FrontMessage}.
  *
  * @author Dyson Parra
  * @since 11

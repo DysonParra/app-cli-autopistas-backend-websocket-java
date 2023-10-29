@@ -29,7 +29,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * TODO: Definición de {@code ServicioCategoriaImpl}.
+ * TODO: Description of {@code ServicioCategoriaImpl}.
  *
  * @author Dyson Parra
  * @since 11
@@ -45,7 +45,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     private final MapeoCategoria mapeoEntidad = Mappers.getMapper(MapeoCategoria.class);
 
     /**
-     * TODO: Definición de {@code ServicioCategoriaImpl}.
+     * TODO: Description of {@code ServicioCategoriaImpl}.
      *
      * @param repositorioEntidad
      */
@@ -54,7 +54,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Definición de {@code guardarActualizar}.
+     * TODO: Description of {@code guardarActualizar}.
      *
      */
     @Override
@@ -70,7 +70,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Definición de {@code obtenerEntidades}.
+     * TODO: Description of {@code obtenerEntidades}.
      *
      */
     @Override
@@ -80,7 +80,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Definición de {@code buscarEntidad}.
+     * TODO: Description of {@code buscarEntidad}.
      *
      */
     @Override
@@ -91,7 +91,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Definición de {@code obtenerEntidades}.
+     * TODO: Description of {@code obtenerEntidades}.
      *
      * @param strId
      * @return
@@ -104,7 +104,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Definición de {@code obtenerEntidades}.
+     * TODO: Description of {@code obtenerEntidades}.
      *
      * @param pageable
      * @return
@@ -117,7 +117,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Definición de {@code eliminarEntidad}.
+     * TODO: Description of {@code eliminarEntidad}.
      *
      */
     @Override
@@ -127,7 +127,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Definición de {@code query}.
+     * TODO: Description of {@code query}.
      *
      * @param query
      * @param pageable

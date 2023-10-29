@@ -15,7 +15,7 @@
 package com.project.dev.websocket.model.element;
 
 /**
- * TODO: Definición de {@code DisplayElement}.
+ * TODO: Description of {@code DisplayElement}.
  *
  * @author Dyson Parra
  * @since 11
@@ -23,14 +23,14 @@ package com.project.dev.websocket.model.element;
 public interface DisplayElement {
 
     /**
-     * TODO: Definición de {@code isSpeed}.
+     * TODO: Description of {@code isSpeed}.
      *
      * @return
      */
     public abstract boolean isSpeed();
 
     /**
-     * TODO: Definición de {@code getMessage}.
+     * TODO: Description of {@code getMessage}.
      *
      * @return
      */

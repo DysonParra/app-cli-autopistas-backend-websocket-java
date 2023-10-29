@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * TODO: Definición de {@code DataBaseConfig}.
+ * TODO: Description of {@code DataBaseConfig}.
  *
  * @author Dyson Parra
  * @since 11
@@ -102,7 +102,7 @@ public class DataBaseConfig {
     }
 
     /**
-     * TODO: Definición de {@code getDataBaseConfig}.
+     * TODO: Description of {@code getDataBaseConfig}.
      *
      * @param servicioConfiguracion
      */
@@ -118,7 +118,7 @@ public class DataBaseConfig {
     }
 
     /**
-     * TODO: Definición de {@code updateInitList}.
+     * TODO: Description of {@code updateInitList}.
      *
      * @param servicioConfiguracion
      */

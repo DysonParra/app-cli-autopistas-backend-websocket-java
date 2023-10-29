@@ -15,7 +15,7 @@
 package com.project.dev.api.servicio.excepcion;
 
 /**
- * TODO: Definición de {@code ExcepcionEntidadNoEncontrado}.
+ * TODO: Description of {@code ExcepcionEntidadNoEncontrado}.
  *
  * @author Dyson Parra
  * @since 11
@@ -23,7 +23,7 @@ package com.project.dev.api.servicio.excepcion;
 public class ExcepcionEntidadNoEncontrado extends RuntimeException {
 
     /**
-     * TODO: Definición de {@code ExcepcionEntidadNoEncontrado}.
+     * TODO: Description of {@code ExcepcionEntidadNoEncontrado}.
      *
      * @param id
      */
@@ -32,7 +32,7 @@ public class ExcepcionEntidadNoEncontrado extends RuntimeException {
     }
 
     /**
-     * TODO: Definición de {@code ExcepcionEntidadNoEncontrado}.
+     * TODO: Description of {@code ExcepcionEntidadNoEncontrado}.
      *
      * @param usuario
      */

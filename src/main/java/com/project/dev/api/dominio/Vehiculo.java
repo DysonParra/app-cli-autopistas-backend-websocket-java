@@ -26,7 +26,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code Vehiculo}.
+ * TODO: Description of {@code Vehiculo}.
  *
  * @author Dyson Parra
  * @since 11

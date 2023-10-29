@@ -30,7 +30,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * TODO: Definición de {@code TransitoDinamica}.
+ * TODO: Description of {@code TransitoDinamica}.
  *
  * @author Dyson Parra
  * @since 11

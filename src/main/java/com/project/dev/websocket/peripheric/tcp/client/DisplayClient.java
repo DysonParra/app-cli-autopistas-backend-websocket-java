@@ -31,7 +31,7 @@ import java.util.LinkedList;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code DisplayClient}.
+ * TODO: Description of {@code DisplayClient}.
  *
  * @author Dyson Parra
  * @since 11
@@ -55,7 +55,7 @@ public class DisplayClient extends PeriphericTcpClient {
     protected final Deque<DisplayElement> displayQueue = new LinkedList<>();
 
     /**
-     * TODO: Definición de {@code DisplayClient}.
+     * TODO: Description of {@code DisplayClient}.
      *
      * @param serverIpAddress
      * @param isDynamic
@@ -121,7 +121,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code sendDisplayInfo}.
+     * TODO: Description of {@code sendDisplayInfo}.
      *
      * @param display
      * @return
@@ -141,7 +141,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code getLastDisplayMessage}.
+     * TODO: Description of {@code getLastDisplayMessage}.
      *
      * @return
      */
@@ -157,7 +157,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code validateAndClear}.
+     * TODO: Description of {@code validateAndClear}.
      *
      */
     @Override
@@ -190,7 +190,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code getInfo}.
+     * TODO: Description of {@code getInfo}.
      *
      * @param type
      * @return
@@ -226,7 +226,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Definición de {@code sendInfo}.
+     * TODO: Description of {@code sendInfo}.
      *
      * @param info
      * @return

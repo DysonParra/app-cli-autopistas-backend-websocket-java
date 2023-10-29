@@ -18,7 +18,7 @@ import com.project.dev.websocket.model.Station;
 import lombok.NonNull;
 
 /**
- * TODO: Definición de {@code GenericCommandProcessor}.
+ * TODO: Description of {@code GenericCommandProcessor}.
  *
  * @param <T>
  *
@@ -28,7 +28,7 @@ import lombok.NonNull;
 public interface GenericCommandProcessor<T> {
 
     /**
-     * TODO: Definición de {@code processCommand}.
+     * TODO: Description of {@code processCommand}.
      *
      * @param plcCommand
      * @param station

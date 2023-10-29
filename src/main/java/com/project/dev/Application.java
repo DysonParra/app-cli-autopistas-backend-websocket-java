@@ -39,7 +39,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import static com.project.dev.websocket.config.DataBaseConfig.*;
 
 /**
- * TODO: Definición de {@code Application}.
+ * TODO: Description of {@code Application}.
  *
  * @author Dyson Parra
  * @since 11
@@ -64,7 +64,7 @@ public class Application implements CommandLineRunner {
     private Station station;
 
     /**
-     * TODO: Definición de {@code startExecution}.
+     * TODO: Description of {@code startExecution}.
      *
      */
     public void startExecution() {
@@ -131,7 +131,7 @@ public class Application implements CommandLineRunner {
     }
 
     /**
-     * TODO: Definición de {@code run}.
+     * TODO: Description of {@code run}.
      *
      * @param args
      * @throws java.lang.Exception
@@ -143,7 +143,7 @@ public class Application implements CommandLineRunner {
     }
 
     /**
-     * TODO: Definición de {@code validateAndUpdateStationState}.
+     * TODO: Description of {@code validateAndUpdateStationState}.
      *
      */
     public void validateAndUpdateStationState() {

@@ -20,7 +20,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
 /**
- * TODO: Definición de {@code ServicioConfiguracion}.
+ * TODO: Description of {@code ServicioConfiguracion}.
  *
  * @author Dyson Parra
  * @since 11

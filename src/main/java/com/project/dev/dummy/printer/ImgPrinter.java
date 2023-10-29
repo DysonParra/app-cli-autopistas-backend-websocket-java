@@ -34,7 +34,7 @@ import javax.print.SimpleDoc;
 import javax.print.attribute.HashPrintRequestAttributeSet;
 
 /**
- * TODO: Definición de {@code ImgPrinter}.
+ * TODO: Description of {@code ImgPrinter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -42,7 +42,7 @@ import javax.print.attribute.HashPrintRequestAttributeSet;
 public class ImgPrinter extends GenericPrinter<String, GenericImgLineToPrint> {
 
     /**
-     * TODO: Definición de {@code makeImageFromGenericLines}.
+     * TODO: Description of {@code makeImageFromGenericLines}.
      *
      * @param imageWidth
      * @param imageHeight
@@ -89,7 +89,7 @@ public class ImgPrinter extends GenericPrinter<String, GenericImgLineToPrint> {
     }
 
     /**
-     * TODO: Definición de {@code printObject}.
+     * TODO: Description of {@code printObject}.
      *
      * @param printerName
      * @param objectToPrint

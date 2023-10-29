@@ -19,7 +19,7 @@ import com.project.dev.websocket.model.Station;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code PeriphericTcpServer}.
+ * TODO: Description of {@code PeriphericTcpServer}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ public abstract class PeriphericTcpServer extends GenericServer implements Perip
     protected Station station = Station.builder().build();
 
     /**
-     * TODO: Definición de {@code PeriphericTcpServer}.
+     * TODO: Description of {@code PeriphericTcpServer}.
      *
      */
     public PeriphericTcpServer() {
@@ -44,7 +44,7 @@ public abstract class PeriphericTcpServer extends GenericServer implements Perip
     }
 
     /**
-     * TODO: Definición de {@code PeriphericTcpServer}.
+     * TODO: Description of {@code PeriphericTcpServer}.
      *
      * @param serverPort
      */
@@ -53,7 +53,7 @@ public abstract class PeriphericTcpServer extends GenericServer implements Perip
     }
 
     /**
-     * TODO: Definición de {@code PeriphericTcpServer}.
+     * TODO: Description of {@code PeriphericTcpServer}.
      *
      * @param serverPort
      * @param processListenersOnOtherThread
@@ -63,7 +63,7 @@ public abstract class PeriphericTcpServer extends GenericServer implements Perip
     }
 
     /**
-     * TODO: Definición de {@code setNumberOfThisType}.
+     * TODO: Description of {@code setNumberOfThisType}.
      *
      * @param numberOfThisType
      */

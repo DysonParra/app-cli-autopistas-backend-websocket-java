@@ -19,7 +19,7 @@ import com.project.dev.websocket.model.Station;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code PeriphericTcpClient}.
+ * TODO: Description of {@code PeriphericTcpClient}.
  *
  * @author Dyson Parra
  * @since 11
@@ -36,7 +36,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     protected Station station = Station.builder().build();
 
     /**
-     * TODO: Definición de {@code PeriphericTcpClient}.
+     * TODO: Description of {@code PeriphericTcpClient}.
      *
      */
     public PeriphericTcpClient() {
@@ -44,7 +44,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Definición de {@code PeriphericTcpClient}.
+     * TODO: Description of {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      */
@@ -53,7 +53,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Definición de {@code PeriphericTcpClient}.
+     * TODO: Description of {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param serverPort
@@ -63,7 +63,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Definición de {@code PeriphericTcpClient}.
+     * TODO: Description of {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param retryTime
@@ -74,7 +74,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Definición de {@code PeriphericTcpClient}.
+     * TODO: Description of {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param maxTries
@@ -86,7 +86,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Definición de {@code PeriphericTcpClient}.
+     * TODO: Description of {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param autoRetryConnection
@@ -99,7 +99,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Definición de {@code PeriphericTcpClient}.
+     * TODO: Description of {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param processListenersOnOtherThread
@@ -113,7 +113,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Definición de {@code setNumberOfThisType}.
+     * TODO: Description of {@code setNumberOfThisType}.
      *
      * @param numberOfThisType
      */

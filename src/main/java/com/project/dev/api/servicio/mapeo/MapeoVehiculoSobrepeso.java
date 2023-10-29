@@ -20,7 +20,7 @@ import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 
 /**
- * TODO: Definición de {@code MapeoVehiculoSobrepeso}.
+ * TODO: Description of {@code MapeoVehiculoSobrepeso}.
  *
  * @author Dyson Parra
  * @since 11

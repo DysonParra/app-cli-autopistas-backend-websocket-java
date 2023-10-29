@@ -19,7 +19,7 @@ import com.project.dev.websocket.model.front.SemaphoreMessage;
 import lombok.NonNull;
 
 /**
- * TODO: Definición de {@code SemaphoreCommandProcessor}.
+ * TODO: Description of {@code SemaphoreCommandProcessor}.
  *
  * @author Dyson Parra
  * @since 11
@@ -27,7 +27,7 @@ import lombok.NonNull;
 public class SemaphoreCommandProcessor implements GenericCommandProcessor<Boolean> {
 
     /**
-     * TODO: Definición de {@code processCommand}.
+     * TODO: Description of {@code processCommand}.
      *
      * @param plcCommand
      * @param station

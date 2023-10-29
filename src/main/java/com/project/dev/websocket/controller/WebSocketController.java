@@ -28,7 +28,7 @@ import org.springframework.stereotype.Controller;
 import static com.project.dev.websocket.config.DataBaseConfig.*;
 
 /**
- * TODO: Definición de {@code WebSocketController}.
+ * TODO: Description of {@code WebSocketController}.
  *
  * @author Dyson Parra
  * @since 11
@@ -41,7 +41,7 @@ public class WebSocketController {
     private static Station station = Station.builder().build();
 
     /**
-     * TODO: Definición de {@code getStation}.
+     * TODO: Description of {@code getStation}.
      *
      * @return
      */
@@ -50,7 +50,7 @@ public class WebSocketController {
     }
 
     /**
-     * TODO: Definición de {@code setStation}.
+     * TODO: Description of {@code setStation}.
      *
      * @param station
      */
@@ -59,7 +59,7 @@ public class WebSocketController {
     }
 
     /**
-     * TODO: Definición de {@code messageToSend}.
+     * TODO: Description of {@code messageToSend}.
      *
      * @param receivedMessage
      */
@@ -73,7 +73,7 @@ public class WebSocketController {
     }
 
     /**
-     * TODO: Definición de {@code messageToPrint}.
+     * TODO: Description of {@code messageToPrint}.
      *
      * @param receivedInfo
      */
