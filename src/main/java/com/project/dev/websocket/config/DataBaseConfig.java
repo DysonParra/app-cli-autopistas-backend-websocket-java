@@ -89,10 +89,10 @@ public class DataBaseConfig {
                     }
                     System.out.println("Config found in database assigned to: '" + varName + "'");
                 } catch (Exception e) {
-                    System.out.println("Error assigning config found in database to: '" + varName + "', using actual value (" + field.get(varName) + ")");
+                    System.out.println("Error assigning config found in database to: '" + varName + "', using current value (" + field.get(varName) + ")");
                 }
             } catch (Exception e) {
-                System.out.println("Could not get config for '" + varName + "' in database, using actual value (" + field.get(varName) + ")");
+                System.out.println("Could not get config for '" + varName + "' in database, using current value (" + field.get(varName) + ")");
             }
 
         } catch (Exception e) {

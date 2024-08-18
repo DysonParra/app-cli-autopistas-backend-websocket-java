@@ -50,8 +50,8 @@ public class DisplayClient extends PeriphericTcpClient {
     private final String displayNumber;
     private final String displayType;
 
-    protected String actualMessage;
-    protected int actualSpeed;
+    protected String currentMessage;
+    protected int currentSpeed;
     protected final Deque<DisplayElement> displayQueue = new LinkedList<>();
 
     /**
@@ -78,8 +78,8 @@ public class DisplayClient extends PeriphericTcpClient {
             @Override
             public void onMessage(GenericClient client, Socket server, String sentMessage) {
                 if (sentMessage.matches(SPEED_PATTERN)) {
-                    actualSpeed = Integer.parseInt(sentMessage.substring(4, sentMessage.length() - 1));
-                    System.out.println("New speed of " + "'" + name + "'" + " is: " + actualSpeed);
+                    currentSpeed = Integer.parseInt(sentMessage.substring(4, sentMessage.length() - 1));
+                    System.out.println("New speed of " + "'" + name + "'" + " is: " + currentSpeed);
                 } else if (sentMessage.matches(MESSAGE_PATTERN)) {
                     String frontMessage = sentMessage.substring(8, sentMessage.length() - 1);
                     System.out.println("New message of " + "'" + name + "'" + " is: " + "'" + frontMessage + "'");
