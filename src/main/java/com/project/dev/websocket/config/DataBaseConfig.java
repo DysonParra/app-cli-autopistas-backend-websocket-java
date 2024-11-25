@@ -51,6 +51,10 @@ public class DataBaseConfig {
     public static Integer RESEND_TRIES = 5;
     public static final Object SYNCHRONIZER = new Object();
 
+    /**
+     * TODO: Description of {@code getParamConfigDB}.
+     *
+     */
     public static void getParamConfigDB(ServicioConfiguracion servicioConfiguracion, String varName) {
         try {
             Field field = DataBaseConfig.class.getField(varName);
