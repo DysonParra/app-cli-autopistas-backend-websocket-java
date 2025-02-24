@@ -43,7 +43,7 @@ import org.springframework.messaging.simp.SimpMessagingTemplate;
  * TODO: Description of {@code Station}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 @AllArgsConstructor
 @Builder

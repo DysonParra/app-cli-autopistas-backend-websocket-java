@@ -25,7 +25,7 @@ import java.util.List;
  * TODO: Description of {@code ImgTicket}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public class ImgTicket implements GenericObjectToPrint<GenericImgLineToPrint> {
 

@@ -28,7 +28,7 @@ import lombok.ToString;
  * TODO: Description of {@code PlcCommandProcessor}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 @ToString(exclude = {"commandsDescription", "commandsDescriptionMap"})
 public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {

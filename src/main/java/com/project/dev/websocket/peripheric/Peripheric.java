@@ -21,7 +21,7 @@ import com.project.dev.websocket.model.element.GenericElement;
  * TODO: Description of {@code Peripheric}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public interface Peripheric extends Runnable {
 

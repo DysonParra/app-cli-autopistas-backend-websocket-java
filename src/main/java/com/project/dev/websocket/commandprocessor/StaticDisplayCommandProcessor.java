@@ -23,7 +23,7 @@ import lombok.NonNull;
  * TODO: Description of {@code StaticDisplayCommandProcessor}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public class StaticDisplayCommandProcessor implements GenericCommandProcessor<Boolean> {
 

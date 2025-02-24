@@ -31,7 +31,7 @@ import javax.print.attribute.HashPrintRequestAttributeSet;
  * TODO: Description of {@code TxtPrinter}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public class TxtPrinter extends GenericPrinter<String, String> {
 

@@ -27,7 +27,7 @@ import lombok.Data;
  * TODO: Description of {@code CameraServer}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 //@AllArgsConstructor
 //@Builder

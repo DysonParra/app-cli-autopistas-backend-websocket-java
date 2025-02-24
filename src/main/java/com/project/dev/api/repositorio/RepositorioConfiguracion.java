@@ -27,7 +27,7 @@ import org.springframework.stereotype.Repository;
  * TODO: Description of {@code RepositorioConfiguracion}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 @Repository
 public interface RepositorioConfiguracion extends JpaRepository<Configuracion, Long> {

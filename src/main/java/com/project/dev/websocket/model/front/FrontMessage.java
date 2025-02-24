@@ -18,7 +18,7 @@ package com.project.dev.websocket.model.front;
  * TODO: Description of {@code FrontMessage}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public interface FrontMessage {
 

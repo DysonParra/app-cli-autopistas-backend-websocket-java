@@ -24,7 +24,7 @@ import com.project.dev.websocket.model.element.InternCommandElement;
  * TODO: Description of {@code CustomCommadProcessor}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public class CustomCommadProcessor implements GenericCommandProcessor<Boolean> {
 

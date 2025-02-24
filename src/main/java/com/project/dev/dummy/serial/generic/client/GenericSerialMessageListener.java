@@ -18,7 +18,7 @@ package com.project.dev.dummy.serial.generic.client;
  * TODO: Description of {@code GenericSerialMessageListener}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public abstract class GenericSerialMessageListener {
 

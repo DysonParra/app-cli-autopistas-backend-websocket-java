@@ -31,7 +31,7 @@ import lombok.NoArgsConstructor;
  * TODO: Description of {@code VehiculoSobrepeso}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 @Entity
 //@Table(name = "VehiculoSobrepeso", schema = "cardinal", catalog = "cardinal")

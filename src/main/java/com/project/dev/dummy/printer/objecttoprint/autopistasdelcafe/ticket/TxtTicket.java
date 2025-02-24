@@ -22,7 +22,7 @@ import java.util.List;
  * TODO: Description of {@code TxtTicket}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public class TxtTicket implements GenericObjectToPrint<String> {
 

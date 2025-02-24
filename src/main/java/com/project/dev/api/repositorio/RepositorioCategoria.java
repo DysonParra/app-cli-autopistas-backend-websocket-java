@@ -27,7 +27,7 @@ import org.springframework.stereotype.Repository;
  * TODO: Description of {@code RepositorioCategoria}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 @Repository
 public interface RepositorioCategoria extends JpaRepository<Categoria, Long> {

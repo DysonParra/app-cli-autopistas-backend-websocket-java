@@ -30,7 +30,7 @@ import javax.print.attribute.standard.Sides;
  * @param <U>
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public abstract class GenericPrinter<T, U> {
 

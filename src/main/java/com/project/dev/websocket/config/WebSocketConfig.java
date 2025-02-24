@@ -24,7 +24,7 @@ import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
  * TODO: Description of {@code WebSocketConfig}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 @Configuration
 @EnableWebSocketMessageBroker

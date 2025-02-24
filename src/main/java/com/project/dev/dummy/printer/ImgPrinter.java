@@ -37,7 +37,7 @@ import javax.print.attribute.HashPrintRequestAttributeSet;
  * TODO: Description of {@code ImgPrinter}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 public class ImgPrinter extends GenericPrinter<String, GenericImgLineToPrint> {
 

@@ -29,7 +29,7 @@ import static com.project.dev.websocket.peripheric.Peripheric.*;
  * TODO: Description of {@code StaticWeightSerialClient}.
  *
  * @author Dyson Parra
- * @since 11
+ * @since Java 17 (LTS), Gradle 7.3
  */
 //@AllArgsConstructor
 //@Builder
