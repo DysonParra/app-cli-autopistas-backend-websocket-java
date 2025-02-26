@@ -28,16 +28,33 @@ import org.mapstruct.Mapping;
 @Mapper(componentModel = "spring") //, unmappedTargetPolicy = ReportingPolicy.IGNORE)
 public interface MapeoTransitoDinamica extends MapeoEntidadesGenerico<TransitoDinamicaDTO, TransitoDinamica> {
 
+    /**
+     * TODO: Description of {@code obtenerDto}.
+     *
+     * @param entidad
+     * @return 
+     */
     @Mapping(source = "intIdDinamica", target = "intIdDinamica")
-    //TODO: deben ser el campo clave de la base de datos ( la llave )
     @Override
     public TransitoDinamicaDTO obtenerDto(TransitoDinamica entidad);
 
+    /**
+     * TODO: Description of {@code obtenerEntidad}.
+     *
+     * @param entidadDTO
+     * @return 
+     */
     @Mapping(source = "intIdDinamica", target = "intIdDinamica")
     @Override
     public TransitoDinamica obtenerEntidad(TransitoDinamicaDTO entidadDTO);
 
-    default TransitoDinamica desdeId(String intId) {
+    /**
+     * TODO: Description of {@code desdeId}.
+     *
+     * @param intId
+     * @return 
+     */
+    public default TransitoDinamica desdeId(String intId) {
         if (intId == null) {
             return null;
         }

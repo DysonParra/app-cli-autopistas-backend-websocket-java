@@ -28,16 +28,33 @@ import org.mapstruct.Mapping;
 @Mapper(componentModel = "spring") //, unmappedTargetPolicy = ReportingPolicy.IGNORE)
 public interface MapeoCategoria extends MapeoEntidadesGenerico<CategoriaDTO, Categoria> {
 
+    /**
+     * TODO: Description of {@code obtenerDto}.
+     *
+     * @param entidad
+     * @return 
+     */
     @Mapping(source = "intIdCategoria", target = "intIdCategoria")
-    //TODO: deben ser el campo clave de la base de datos ( la llave )
     @Override
     public CategoriaDTO obtenerDto(Categoria entidad);
 
+    /**
+     * TODO: Description of {@code obtenerEntidad}.
+     *
+     * @param entidadDTO
+     * @return 
+     */
     @Mapping(source = "intIdCategoria", target = "intIdCategoria")
     @Override
     public Categoria obtenerEntidad(CategoriaDTO entidadDTO);
 
-    default Categoria desdeId(String intId) {
+    /**
+     * TODO: Description of {@code desdeId}.
+     *
+     * @param intId
+     * @return 
+     */
+    public default Categoria desdeId(String intId) {
         if (intId == null) {
             return null;
         }

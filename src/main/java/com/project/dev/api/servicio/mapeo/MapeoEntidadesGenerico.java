@@ -28,11 +28,35 @@ import java.util.List;
  */
 public interface MapeoEntidadesGenerico<D, E> {
 
+    /**
+     * TODO: Description of {@code obtenerEntidad}.
+     *
+     * @param dto
+     * @return 
+     */
     public E obtenerEntidad(D dto);
 
+    /**
+     * TODO: Description of {@code obtenerDto}.
+     *
+     * @param entidad
+     * @return 
+     */
     public D obtenerDto(E entidad);
 
+    /**
+     * TODO: Description of {@code obtenerEntidad}.
+     *
+     * @param listaDto
+     * @return 
+     */
     public List<E> obtenerEntidad(List<D> listaDto);
 
+    /**
+     * TODO: Description of {@code obtenerDto}.
+     *
+     * @param listaEntidades
+     * @return 
+     */
     public List<D> obtenerDto(List<E> listaEntidades);
 }

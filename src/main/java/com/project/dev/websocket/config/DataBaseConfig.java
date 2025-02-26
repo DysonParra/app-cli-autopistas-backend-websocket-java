@@ -54,6 +54,8 @@ public class DataBaseConfig {
     /**
      * TODO: Description of {@code getParamConfigDB}.
      *
+     * @param servicioConfiguracion
+     * @param varName
      */
     public static void getParamConfigDB(ServicioConfiguracion servicioConfiguracion, String varName) {
         try {

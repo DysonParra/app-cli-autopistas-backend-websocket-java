@@ -32,10 +32,28 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface RepositorioConfiguracion extends JpaRepository<Configuracion, Long> {
 
+    /**
+     * TODO: Description of {@code findByIntIdConfiguracion}.
+     *
+     * @param id
+     * @return 
+     */
     public List<Configuracion> findByIntIdConfiguracion(Long id);
 
+    /**
+     * TODO: Description of {@code findByStrParametro}.
+     *
+     * @param id
+     * @return 
+     */
     public List<Configuracion> findByStrParametro(String id);
 
+    /**
+     * TODO: Description of {@code buscarEntidades}.
+     *
+     * @param strBusqueda
+     * @param pageable
+     */
     @Query("SELECT m FROM Configuracion m WHERE m.intIdConfiguracion LIKE CONCAT('%', :strBusqueda, '%')")
     public Page<Configuracion> buscarEntidades(@Param("strBusqueda") String strBusqueda, Pageable pageable);
 }

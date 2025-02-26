@@ -32,8 +32,20 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface RepositorioVehiculoSobrepeso extends JpaRepository<VehiculoSobrepeso, Long> {
 
+    /**
+     * TODO: Description of {@code findByIntIdRepeso}.
+     *
+     * @param id
+     * @return 
+     */
     public List<VehiculoSobrepeso> findByIntIdRepeso(Long id);
 
+    /**
+     * TODO: Description of {@code buscarEntidades}.
+     *
+     * @param strBusqueda
+     * @param pageable
+     */
     @Query("SELECT m FROM VehiculoSobrepeso m WHERE m.intIdRepeso LIKE CONCAT('%', :strBusqueda, '%')")
     public Page<VehiculoSobrepeso> buscarEntidades(@Param("strBusqueda") String strBusqueda, Pageable pageable);
 }

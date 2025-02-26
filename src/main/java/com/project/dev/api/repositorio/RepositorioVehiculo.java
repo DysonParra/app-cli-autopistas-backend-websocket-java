@@ -32,8 +32,20 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface RepositorioVehiculo extends JpaRepository<Vehiculo, String> {
 
+    /**
+     * TODO: Description of {@code findByStrPlacaVehiculo}.
+     *
+     * @param id
+     * @return 
+     */
     public List<Vehiculo> findByStrPlacaVehiculo(String id);
 
+    /**
+     * TODO: Description of {@code buscarEntidades}.
+     *
+     * @param strBusqueda
+     * @param pageable
+     */
     @Query("SELECT m FROM Vehiculo m WHERE m.strPlacaVehiculo LIKE CONCAT('%', :strBusqueda, '%')")
     public Page<Vehiculo> buscarEntidades(@Param("strBusqueda") String strBusqueda, Pageable pageable);
 }

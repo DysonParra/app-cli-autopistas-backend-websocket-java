@@ -36,9 +36,9 @@ public class VehiculoDTO {
     private String strObservaciones;
 
     /**
-     * Obtiene el valor en {String} del objeto actual.
+     * Get the current {@code Object} as {@code String}.
      *
-     * @return un {String} con la representación del objeto.
+     * @return {@code String} representing this {@code Object}.
      */
     @Override
     public String toString() {

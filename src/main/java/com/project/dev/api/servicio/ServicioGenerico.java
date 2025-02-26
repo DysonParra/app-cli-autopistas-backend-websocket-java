@@ -27,16 +27,16 @@ import java.util.List;
 public interface ServicioGenerico<T> {
 
     /**
-     * Guarda o actualiza los datos de un actividad.
+     * Guarda o actualiza los datos de una actividad.
      *
-     * @param entidadDTO entidad que sera almacenada
+     * @param entidadDTO entidad que sera almacenada.
      * @return entidad almacenada en la base de datos.
      * @throws java.lang.Exception
      */
     public T guardarActualizar(T entidadDTO) throws Exception;
 
     /**
-     * Lista todos las entidades (actividad) existentes.
+     * Lista todos las entidades (actividades) existentes.
      *
      * @return lista de entidades almacenadas en la base de datos.
      * @throws java.lang.Exception
@@ -44,7 +44,7 @@ public interface ServicioGenerico<T> {
     public List<T> obtenerEntidades() throws Exception;
 
     /**
-     * Obtiene el actividad segun el id suministrado.
+     * Obtiene la actividad segun el id suministrado.
      *
      * @param id entidad
      * @return entidad almacenada en la base de datos.
@@ -53,7 +53,7 @@ public interface ServicioGenerico<T> {
     public T buscarEntidad(String id) throws Exception;
 
     /**
-     * Guarda o actualiza los datos de un actividad.
+     * Guarda o actualiza los datos de una actividad.
      *
      * @param id entidad que sera eliminada.
      * @throws java.lang.Exception

@@ -259,14 +259,14 @@ public class DynamicWeightClient extends PeriphericTcpClient {
             transitoDinamicaDTO.setIntIdCategoria(categoria.getIntIdCategoria().intValue());
 
         if (nroClass.equals("2") && vehiculo == null) {
-            System.out.println("Vehicle is class C2 (" + dynamicWeightMessage.getTotal() + " KG)...");
+            System.out.println("Vehicle is Class C2 (" + dynamicWeightMessage.getTotal() + " KG)...");
             vehicleState = "C2";
         } else if (nroClass.equals("15") && vehiculo == null)
-            System.out.println("Vehicle class unidentified...");
+            System.out.println("Vehicle Class unidentified...");
         else if (dynamicWeightMessage.getAxles().length != Integer.parseInt(dynamicWeightMessage.getNumAxles()) && vehiculo == null)
             System.out.println("Num Axles are different to found Axles.");
         else {
-            System.out.println("Validating class (" + nroClass + ")...");
+            System.out.println("Validating Class (" + nroClass + ")...");
             try {
                 if (categoria != null) {
                     if (categoria.getIntTolerancia() != null)
@@ -285,7 +285,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
                         vehicleState = "not overWeight";
                     }
                 } else
-                    System.out.println("Vehicle class unidentified...");
+                    System.out.println("Vehicle Class unidentified...");
 
             } catch (Exception ex) {
                 if (vehiculo != null)
