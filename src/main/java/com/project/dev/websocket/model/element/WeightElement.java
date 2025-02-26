@@ -36,7 +36,7 @@ public class WeightElement extends GenericElement {
     private int weight;
 
     /**
-     * TODO: Description of {@code WeightElement}.
+     * TODO: Description of method {@code WeightElement}.
      *
      * @param sender
      * @param weight
@@ -48,7 +48,7 @@ public class WeightElement extends GenericElement {
     }
 
     /**
-     * TODO: Description of {@code getPrintTextWeight}.
+     * TODO: Description of method {@code getPrintTextWeight}.
      *
      * @return
      */

@@ -55,7 +55,7 @@ public class DisplayClient extends PeriphericTcpClient {
     protected final Deque<DisplayElement> displayQueue = new LinkedList<>();
 
     /**
-     * TODO: Description of {@code DisplayClient}.
+     * TODO: Description of method {@code DisplayClient}.
      *
      * @param serverIpAddress
      * @param isDynamic
@@ -121,7 +121,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code sendDisplayInfo}.
+     * TODO: Description of method {@code sendDisplayInfo}.
      *
      * @param display
      * @return
@@ -141,7 +141,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code getLastDisplayMessage}.
+     * TODO: Description of method {@code getLastDisplayMessage}.
      *
      * @return
      */
@@ -157,7 +157,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code validateAndClear}.
+     * TODO: Description of method {@code validateAndClear}.
      *
      */
     @Override
@@ -190,7 +190,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code getInfo}.
+     * TODO: Description of method {@code getInfo}.
      *
      * @param type
      * @return
@@ -226,7 +226,7 @@ public class DisplayClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code sendInfo}.
+     * TODO: Description of method {@code sendInfo}.
      *
      * @param info
      * @return

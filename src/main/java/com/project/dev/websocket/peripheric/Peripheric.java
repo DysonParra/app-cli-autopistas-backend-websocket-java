@@ -62,69 +62,69 @@ public interface Peripheric extends Runnable {
     public static final String TYPE_PLC = "PLC";
 
     /**
-     * TODO: Description of {@code getId}.
+     * TODO: Description of method {@code getId}.
      *
      * @return
      */
     public abstract String getId();
 
     /**
-     * TODO: Description of {@code setId}.
+     * TODO: Description of method {@code setId}.
      *
      * @param id
      */
     public abstract void setId(String id);
 
     /**
-     * TODO: Description of {@code getType}.
+     * TODO: Description of method {@code getType}.
      *
      * @return
      */
     public abstract String getType();
 
     /**
-     * TODO: Description of {@code setType}.
+     * TODO: Description of method {@code setType}.
      *
      * @param id
      */
     public abstract void setType(String id);
 
     /**
-     * TODO: Description of {@code getNumberOfThisType}.
+     * TODO: Description of method {@code getNumberOfThisType}.
      *
      * @return
      */
     public abstract int getNumberOfThisType();
 
     /**
-     * TODO: Description of {@code setNumberOfThisType}.
+     * TODO: Description of method {@code setNumberOfThisType}.
      *
      * @param numberOfThisType
      */
     public abstract void setNumberOfThisType(int numberOfThisType);
 
     /**
-     * TODO: Description of {@code getStation}.
+     * TODO: Description of method {@code getStation}.
      *
      * @return
      */
     public abstract Station getStation();
 
     /**
-     * TODO: Description of {@code setStation}.
+     * TODO: Description of method {@code setStation}.
      *
      * @param station
      */
     public abstract void setStation(Station station);
 
     /**
-     * TODO: Description of {@code validateAndClear}.
+     * TODO: Description of method {@code validateAndClear}.
      *
      */
     public abstract void validateAndClear();
 
     /**
-     * TODO: Description of {@code getInfo}.
+     * TODO: Description of method {@code getInfo}.
      *
      * @param getType
      * @return
@@ -132,7 +132,7 @@ public interface Peripheric extends Runnable {
     public abstract Object getInfo(String getType);
 
     /**
-     * TODO: Description of {@code sendInfo}.
+     * TODO: Description of method {@code sendInfo}.
      *
      * @param info
      * @return

@@ -29,7 +29,7 @@ import java.util.List;
 public interface MapeoEntidadesGenerico<D, E> {
 
     /**
-     * TODO: Description of {@code obtenerEntidad}.
+     * TODO: Description of method {@code obtenerEntidad}.
      *
      * @param dto
      * @return 
@@ -37,7 +37,7 @@ public interface MapeoEntidadesGenerico<D, E> {
     public E obtenerEntidad(D dto);
 
     /**
-     * TODO: Description of {@code obtenerDto}.
+     * TODO: Description of method {@code obtenerDto}.
      *
      * @param entidad
      * @return 
@@ -45,7 +45,7 @@ public interface MapeoEntidadesGenerico<D, E> {
     public D obtenerDto(E entidad);
 
     /**
-     * TODO: Description of {@code obtenerEntidad}.
+     * TODO: Description of method {@code obtenerEntidad}.
      *
      * @param listaDto
      * @return 
@@ -53,7 +53,7 @@ public interface MapeoEntidadesGenerico<D, E> {
     public List<E> obtenerEntidad(List<D> listaDto);
 
     /**
-     * TODO: Description of {@code obtenerDto}.
+     * TODO: Description of method {@code obtenerDto}.
      *
      * @param listaEntidades
      * @return 

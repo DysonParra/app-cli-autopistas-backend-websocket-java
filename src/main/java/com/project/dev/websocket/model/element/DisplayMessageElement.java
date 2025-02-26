@@ -36,7 +36,7 @@ public class DisplayMessageElement extends GenericElement implements DisplayElem
     private String message;
 
     /**
-     * TODO: Description of {@code DisplayMessageElement}.
+     * TODO: Description of method {@code DisplayMessageElement}.
      *
      * @param sender
      * @param message
@@ -48,7 +48,7 @@ public class DisplayMessageElement extends GenericElement implements DisplayElem
     }
 
     /**
-     * TODO: Description of {@code getPrintTextMessage}.
+     * TODO: Description of method {@code getPrintTextMessage}.
      *
      * @return
      */
@@ -73,7 +73,7 @@ public class DisplayMessageElement extends GenericElement implements DisplayElem
     }
 
     /**
-     * TODO: Description of {@code isSpeed}.
+     * TODO: Description of method {@code isSpeed}.
      *
      * @return
      */

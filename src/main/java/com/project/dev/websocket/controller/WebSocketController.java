@@ -41,7 +41,7 @@ public class WebSocketController {
     private static Station station = Station.builder().build();
 
     /**
-     * TODO: Description of {@code getStation}.
+     * TODO: Description of method {@code getStation}.
      *
      * @return
      */
@@ -50,7 +50,7 @@ public class WebSocketController {
     }
 
     /**
-     * TODO: Description of {@code setStation}.
+     * TODO: Description of method {@code setStation}.
      *
      * @param station
      */
@@ -59,7 +59,7 @@ public class WebSocketController {
     }
 
     /**
-     * TODO: Description of {@code messageToSend}.
+     * TODO: Description of method {@code messageToSend}.
      *
      * @param receivedMessage
      */
@@ -73,7 +73,7 @@ public class WebSocketController {
     }
 
     /**
-     * TODO: Description of {@code messageToPrint}.
+     * TODO: Description of method {@code messageToPrint}.
      *
      * @param receivedInfo
      */

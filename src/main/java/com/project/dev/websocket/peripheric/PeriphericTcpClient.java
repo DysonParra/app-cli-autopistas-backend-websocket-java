@@ -36,7 +36,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     protected Station station = Station.builder().build();
 
     /**
-     * TODO: Description of {@code PeriphericTcpClient}.
+     * TODO: Description of method {@code PeriphericTcpClient}.
      *
      */
     public PeriphericTcpClient() {
@@ -44,7 +44,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Description of {@code PeriphericTcpClient}.
+     * TODO: Description of method {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      */
@@ -53,7 +53,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Description of {@code PeriphericTcpClient}.
+     * TODO: Description of method {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param serverPort
@@ -63,7 +63,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Description of {@code PeriphericTcpClient}.
+     * TODO: Description of method {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param retryTime
@@ -74,7 +74,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Description of {@code PeriphericTcpClient}.
+     * TODO: Description of method {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param maxTries
@@ -86,7 +86,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Description of {@code PeriphericTcpClient}.
+     * TODO: Description of method {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param autoRetryConnection
@@ -99,7 +99,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Description of {@code PeriphericTcpClient}.
+     * TODO: Description of method {@code PeriphericTcpClient}.
      *
      * @param serverIpAddress
      * @param processListenersOnOtherThread
@@ -113,7 +113,7 @@ public abstract class PeriphericTcpClient extends GenericClient implements Perip
     }
 
     /**
-     * TODO: Description of {@code setNumberOfThisType}.
+     * TODO: Description of method {@code setNumberOfThisType}.
      *
      * @param numberOfThisType
      */

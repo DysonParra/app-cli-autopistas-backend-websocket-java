@@ -36,7 +36,7 @@ import javax.print.attribute.HashPrintRequestAttributeSet;
 public class TxtPrinter extends GenericPrinter<String, String> {
 
     /**
-     * TODO: Description of {@code printObject}.
+     * TODO: Description of method {@code printObject}.
      *
      * @param printerName
      * @param objectToPrint

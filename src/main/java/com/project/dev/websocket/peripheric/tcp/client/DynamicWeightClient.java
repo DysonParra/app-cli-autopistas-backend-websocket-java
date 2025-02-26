@@ -55,7 +55,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     protected int lastTotalWeight = 0;
 
     /**
-     * TODO: Description of {@code DynamicWeightClient}.
+     * TODO: Description of method {@code DynamicWeightClient}.
      *
      * @param serverIpAddress
      * @param serverPort
@@ -98,7 +98,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code getDynamicWeightAsMessage}.
+     * TODO: Description of method {@code getDynamicWeightAsMessage}.
      *
      * @param weightInfo
      * @return
@@ -180,7 +180,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code validateOverweightAndInsert}.
+     * TODO: Description of method {@code validateOverweightAndInsert}.
      *
      * @param dynamicWeightMessage
      */
@@ -347,7 +347,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code validateAndClear}.
+     * TODO: Description of method {@code validateAndClear}.
      *
      */
     @Override
@@ -356,7 +356,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code getInfo}.
+     * TODO: Description of method {@code getInfo}.
      *
      * @param type
      * @return
@@ -374,7 +374,7 @@ public class DynamicWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code sendInfo}.
+     * TODO: Description of method {@code sendInfo}.
      *
      * @param info
      * @return

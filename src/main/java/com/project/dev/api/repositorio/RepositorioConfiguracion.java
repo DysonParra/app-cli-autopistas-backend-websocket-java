@@ -33,7 +33,7 @@ import org.springframework.stereotype.Repository;
 public interface RepositorioConfiguracion extends JpaRepository<Configuracion, Long> {
 
     /**
-     * TODO: Description of {@code findByIntIdConfiguracion}.
+     * TODO: Description of method {@code findByIntIdConfiguracion}.
      *
      * @param id
      * @return 
@@ -41,7 +41,7 @@ public interface RepositorioConfiguracion extends JpaRepository<Configuracion, L
     public List<Configuracion> findByIntIdConfiguracion(Long id);
 
     /**
-     * TODO: Description of {@code findByStrParametro}.
+     * TODO: Description of method {@code findByStrParametro}.
      *
      * @param id
      * @return 
@@ -49,7 +49,7 @@ public interface RepositorioConfiguracion extends JpaRepository<Configuracion, L
     public List<Configuracion> findByStrParametro(String id);
 
     /**
-     * TODO: Description of {@code buscarEntidades}.
+     * TODO: Description of method {@code buscarEntidades}.
      *
      * @param strBusqueda
      * @param pageable

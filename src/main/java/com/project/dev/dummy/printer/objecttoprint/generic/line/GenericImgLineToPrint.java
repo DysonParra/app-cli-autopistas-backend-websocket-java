@@ -35,7 +35,7 @@ public class GenericImgLineToPrint {
     private String text;
 
     /**
-     * TODO: Description of {@code GenericImgLineToPrint}.
+     * TODO: Description of method {@code GenericImgLineToPrint}.
      *
      */
     public GenericImgLineToPrint() {
@@ -43,7 +43,7 @@ public class GenericImgLineToPrint {
     }
 
     /**
-     * TODO: Description of {@code GenericImgLineToPrint}.
+     * TODO: Description of method {@code GenericImgLineToPrint}.
      *
      * @param font
      * @param text

@@ -87,7 +87,7 @@ public class Station {
     private ServicioVehiculo servicioVehiculo;
 
     /**
-     * TODO: Description of {@code getLastCommandQuantity}.
+     * TODO: Description of method {@code getLastCommandQuantity}.
      *
      * @return
      */
@@ -96,7 +96,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code setLastCommandQuantity}.
+     * TODO: Description of method {@code setLastCommandQuantity}.
      *
      * @param newCommandQuantity
      */
@@ -116,7 +116,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code getStationState}.
+     * TODO: Description of method {@code getStationState}.
      *
      * @return
      */
@@ -125,7 +125,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code updateStationState}.
+     * TODO: Description of method {@code updateStationState}.
      *
      */
     public void updateStationState() {
@@ -139,7 +139,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code addPeripheric}.
+     * TODO: Description of method {@code addPeripheric}.
      *
      * @param peripheric
      */
@@ -186,7 +186,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code getPeripheric}.
+     * TODO: Description of method {@code getPeripheric}.
      *
      * @param id
      * @return
@@ -201,7 +201,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code getPeriphericInfo}.
+     * TODO: Description of method {@code getPeriphericInfo}.
      *
      * @param id
      * @param getType
@@ -222,7 +222,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code sendInfoToPeripheric}.
+     * TODO: Description of method {@code sendInfoToPeripheric}.
      *
      * @param id
      * @param info
@@ -245,7 +245,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code startPeripherics}.
+     * TODO: Description of method {@code startPeripherics}.
      *
      */
     public void startPeripherics() {
@@ -259,7 +259,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code validateAndClearPeripherics}.
+     * TODO: Description of method {@code validateAndClearPeripherics}.
      *
      */
     public void validateAndClearPeripherics() {
@@ -269,7 +269,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code sendMessageToFront}.
+     * TODO: Description of method {@code sendMessageToFront}.
      *
      * @param message
      */
@@ -282,7 +282,7 @@ public class Station {
     }
 
     /**
-     * TODO: Description of {@code sendMessageToFront}.
+     * TODO: Description of method {@code sendMessageToFront}.
      *
      * @param message
      */

@@ -29,7 +29,7 @@ import org.mapstruct.Mapping;
 public interface MapeoVehiculoSobrepeso extends MapeoEntidadesGenerico<VehiculoSobrepesoDTO, VehiculoSobrepeso> {
 
     /**
-     * TODO: Description of {@code obtenerDto}.
+     * TODO: Description of method {@code obtenerDto}.
      *
      * @param entidad
      * @return 
@@ -39,7 +39,7 @@ public interface MapeoVehiculoSobrepeso extends MapeoEntidadesGenerico<VehiculoS
     public VehiculoSobrepesoDTO obtenerDto(VehiculoSobrepeso entidad);
 
     /**
-     * TODO: Description of {@code obtenerEntidad}.
+     * TODO: Description of method {@code obtenerEntidad}.
      *
      * @param entidadDTO
      * @return 
@@ -49,7 +49,7 @@ public interface MapeoVehiculoSobrepeso extends MapeoEntidadesGenerico<VehiculoS
     public VehiculoSobrepeso obtenerEntidad(VehiculoSobrepesoDTO entidadDTO);
 
     /**
-     * TODO: Description of {@code desdeId}.
+     * TODO: Description of method {@code desdeId}.
      *
      * @param intId
      * @return 

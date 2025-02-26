@@ -64,7 +64,7 @@ public class Application implements CommandLineRunner {
     private Station station;
 
     /**
-     * TODO: Description of {@code startExecution}.
+     * TODO: Description of method {@code startExecution}.
      *
      */
     public void startExecution() {
@@ -131,7 +131,7 @@ public class Application implements CommandLineRunner {
     }
 
     /**
-     * TODO: Description of {@code run}.
+     * TODO: Description of method {@code run}.
      *
      * @param args
      * @throws java.lang.Exception
@@ -143,7 +143,7 @@ public class Application implements CommandLineRunner {
     }
 
     /**
-     * TODO: Description of {@code validateAndUpdateStationState}.
+     * TODO: Description of method {@code validateAndUpdateStationState}.
      *
      */
     public void validateAndUpdateStationState() {

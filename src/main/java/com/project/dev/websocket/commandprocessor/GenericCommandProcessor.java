@@ -28,7 +28,7 @@ import lombok.NonNull;
 public interface GenericCommandProcessor<T> {
 
     /**
-     * TODO: Description of {@code processCommand}.
+     * TODO: Description of method {@code processCommand}.
      *
      * @param plcCommand
      * @param station

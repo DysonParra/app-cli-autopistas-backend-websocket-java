@@ -81,7 +81,7 @@ public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {
                     Collectors.toMap(data -> data[0][0], data -> data[1]));
 
     /**
-     * TODO: Description of {@code PlcCommandProcessor}.
+     * TODO: Description of method {@code PlcCommandProcessor}.
      *
      */
     public PlcCommandProcessor() {
@@ -91,7 +91,7 @@ public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {
     }
 
     /**
-     * TODO: Description of {@code printCommandDescription}.
+     * TODO: Description of method {@code printCommandDescription}.
      *
      * @param plcCommand
      */
@@ -106,7 +106,7 @@ public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {
     }
 
     /**
-     * TODO: Description of {@code printAllCommandsDescription}.
+     * TODO: Description of method {@code printAllCommandsDescription}.
      *
      */
     public void printAllCommandsDescription() {
@@ -116,7 +116,7 @@ public class PlcCommandProcessor implements GenericCommandProcessor<Boolean> {
     }
 
     /**
-     * TODO: Description of {@code processCommand}.
+     * TODO: Description of method {@code processCommand}.
      *
      * @param plcCommand
      * @param station

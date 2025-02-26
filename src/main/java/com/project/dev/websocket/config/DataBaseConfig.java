@@ -52,7 +52,7 @@ public class DataBaseConfig {
     public static final Object SYNCHRONIZER = new Object();
 
     /**
-     * TODO: Description of {@code getParamConfigDB}.
+     * TODO: Description of method {@code getParamConfigDB}.
      *
      * @param servicioConfiguracion
      * @param varName
@@ -108,7 +108,7 @@ public class DataBaseConfig {
     }
 
     /**
-     * TODO: Description of {@code getDataBaseConfig}.
+     * TODO: Description of method {@code getDataBaseConfig}.
      *
      * @param servicioConfiguracion
      */
@@ -124,7 +124,7 @@ public class DataBaseConfig {
     }
 
     /**
-     * TODO: Description of {@code updateInitList}.
+     * TODO: Description of method {@code updateInitList}.
      *
      * @param servicioConfiguracion
      */

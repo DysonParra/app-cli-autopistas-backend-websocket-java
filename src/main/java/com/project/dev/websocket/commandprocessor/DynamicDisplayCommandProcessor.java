@@ -32,7 +32,7 @@ public class DynamicDisplayCommandProcessor implements GenericCommandProcessor<B
     protected final Queue<String> dynamicDisplayQueue = new LinkedList<>();
 
     /**
-     * TODO: Description of {@code processCommand}.
+     * TODO: Description of method {@code processCommand}.
      *
      * @param plcCommand
      * @param station

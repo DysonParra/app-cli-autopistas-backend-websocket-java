@@ -45,7 +45,7 @@ public class SocketTicket implements GenericObjectToPrint<String> {
     private String placa;
 
     /**
-     * TODO: Description of {@code makeListToPrint}.
+     * TODO: Description of method {@code makeListToPrint}.
      *
      * @return
      */
@@ -106,7 +106,7 @@ public class SocketTicket implements GenericObjectToPrint<String> {
     }
 
     /**
-     * TODO: Description of {@code makeLineToPrint}.
+     * TODO: Description of method {@code makeLineToPrint}.
      *
      * @param value
      * @return

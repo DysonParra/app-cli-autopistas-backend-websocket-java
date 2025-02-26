@@ -30,7 +30,7 @@ import java.util.List;
 public class ImgTicket implements GenericObjectToPrint<GenericImgLineToPrint> {
 
     /**
-     * TODO: Description of {@code makeListToPrint}.
+     * TODO: Description of method {@code makeListToPrint}.
      *
      * @return
      */

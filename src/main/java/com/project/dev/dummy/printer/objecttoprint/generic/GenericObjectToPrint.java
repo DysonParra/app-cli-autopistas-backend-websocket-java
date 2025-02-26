@@ -27,7 +27,7 @@ import java.util.List;
 public interface GenericObjectToPrint<T> {
 
     /**
-     * TODO: Description of {@code makeListToPrint}.
+     * TODO: Description of method {@code makeListToPrint}.
      *
      * @return
      */

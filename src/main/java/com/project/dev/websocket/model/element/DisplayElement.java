@@ -23,14 +23,14 @@ package com.project.dev.websocket.model.element;
 public interface DisplayElement {
 
     /**
-     * TODO: Description of {@code isSpeed}.
+     * TODO: Description of method {@code isSpeed}.
      *
      * @return
      */
     public abstract boolean isSpeed();
 
     /**
-     * TODO: Description of {@code getMessage}.
+     * TODO: Description of method {@code getMessage}.
      *
      * @return
      */

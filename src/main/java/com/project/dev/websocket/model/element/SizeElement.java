@@ -36,7 +36,7 @@ public class SizeElement extends GenericElement {
     private int size;
 
     /**
-     * TODO: Description of {@code SizeElement}.
+     * TODO: Description of method {@code SizeElement}.
      *
      * @param sender
      * @param size
@@ -48,7 +48,7 @@ public class SizeElement extends GenericElement {
     }
 
     /**
-     * TODO: Description of {@code getPrintTextSize}.
+     * TODO: Description of method {@code getPrintTextSize}.
      *
      * @return
      */

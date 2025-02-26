@@ -36,7 +36,7 @@ public class PlcCommandElement extends GenericElement {
     private String command;
 
     /**
-     * TODO: Description of {@code PlcCommandElement}.
+     * TODO: Description of method {@code PlcCommandElement}.
      *
      * @param sender
      * @param command
@@ -49,7 +49,7 @@ public class PlcCommandElement extends GenericElement {
     }
 
     /**
-     * TODO: Description of {@code getPrintTextCommand}.
+     * TODO: Description of method {@code getPrintTextCommand}.
      *
      * @return
      */

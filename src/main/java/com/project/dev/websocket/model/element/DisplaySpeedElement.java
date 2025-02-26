@@ -36,7 +36,7 @@ public class DisplaySpeedElement extends GenericElement implements DisplayElemen
     private int speed;
 
     /**
-     * TODO: Description of {@code DisplaySpeedElement}.
+     * TODO: Description of method {@code DisplaySpeedElement}.
      *
      * @param sender
      * @param speed
@@ -48,7 +48,7 @@ public class DisplaySpeedElement extends GenericElement implements DisplayElemen
     }
 
     /**
-     * TODO: Description of {@code getPrintTextSpeed}.
+     * TODO: Description of method {@code getPrintTextSpeed}.
      *
      * @return
      */
@@ -73,7 +73,7 @@ public class DisplaySpeedElement extends GenericElement implements DisplayElemen
     }
 
     /**
-     * TODO: Description of {@code getMessage}.
+     * TODO: Description of method {@code getMessage}.
      *
      * @return
      */
@@ -83,7 +83,7 @@ public class DisplaySpeedElement extends GenericElement implements DisplayElemen
     }
 
     /**
-     * TODO: Description of {@code isSpeed}.
+     * TODO: Description of method {@code isSpeed}.
      *
      * @return
      */

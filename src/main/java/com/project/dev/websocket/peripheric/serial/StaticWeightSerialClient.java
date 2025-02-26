@@ -42,7 +42,7 @@ public class StaticWeightSerialClient extends PeriphericSerialClient {
     protected int lastTotalWeight = 0;
 
     /**
-     * TODO: Description of {@code StaticWeightSerialClient}.
+     * TODO: Description of method {@code StaticWeightSerialClient}.
      *
      * @param portName
      * @param parity
@@ -90,7 +90,7 @@ public class StaticWeightSerialClient extends PeriphericSerialClient {
     }
 
     /**
-     * TODO: Description of {@code validateAndClear}.
+     * TODO: Description of method {@code validateAndClear}.
      *
      */
     @Override
@@ -104,7 +104,7 @@ public class StaticWeightSerialClient extends PeriphericSerialClient {
     }
 
     /**
-     * TODO: Description of {@code getInfo}.
+     * TODO: Description of method {@code getInfo}.
      *
      * @param type
      * @return
@@ -122,7 +122,7 @@ public class StaticWeightSerialClient extends PeriphericSerialClient {
     }
 
     /**
-     * TODO: Description of {@code sendInfo}.
+     * TODO: Description of method {@code sendInfo}.
      *
      * @param info
      * @return

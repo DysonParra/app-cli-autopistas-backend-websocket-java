@@ -29,7 +29,7 @@ import com.project.dev.websocket.model.element.InternCommandElement;
 public class CustomCommadProcessor implements GenericCommandProcessor<Boolean> {
 
     /**
-     * TODO: Description of {@code processCommand}.
+     * TODO: Description of method {@code processCommand}.
      *
      * @param plcCommand
      * @param station

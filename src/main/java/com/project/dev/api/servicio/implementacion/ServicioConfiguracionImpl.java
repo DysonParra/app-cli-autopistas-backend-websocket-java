@@ -46,7 +46,7 @@ public class ServicioConfiguracionImpl implements ServicioConfiguracion {
     private final MapeoConfiguracion mapeoEntidad = Mappers.getMapper(MapeoConfiguracion.class);
 
     /**
-     * TODO: Description of {@code ServicioConfiguracionImpl}.
+     * TODO: Description of method {@code ServicioConfiguracionImpl}.
      *
      * @param repositorioEntidad
      */
@@ -55,7 +55,7 @@ public class ServicioConfiguracionImpl implements ServicioConfiguracion {
     }
 
     /**
-     * TODO: Description of {@code guardarActualizar}.
+     * TODO: Description of method {@code guardarActualizar}.
      *
      */
     @Override
@@ -71,7 +71,7 @@ public class ServicioConfiguracionImpl implements ServicioConfiguracion {
     }
 
     /**
-     * TODO: Description of {@code obtenerEntidades}.
+     * TODO: Description of method {@code obtenerEntidades}.
      *
      */
     @Override
@@ -81,7 +81,7 @@ public class ServicioConfiguracionImpl implements ServicioConfiguracion {
     }
 
     /**
-     * TODO: Description of {@code buscarEntidad}.
+     * TODO: Description of method {@code buscarEntidad}.
      *
      */
     @Override
@@ -93,7 +93,7 @@ public class ServicioConfiguracionImpl implements ServicioConfiguracion {
     }
 
     /**
-     * TODO: Description of {@code obtenerEntidades}.
+     * TODO: Description of method {@code obtenerEntidades}.
      *
      * @param strId
      * @return
@@ -106,7 +106,7 @@ public class ServicioConfiguracionImpl implements ServicioConfiguracion {
     }
 
     /**
-     * TODO: Description of {@code obtenerEntidades}.
+     * TODO: Description of method {@code obtenerEntidades}.
      *
      * @param pageable
      * @return
@@ -119,7 +119,7 @@ public class ServicioConfiguracionImpl implements ServicioConfiguracion {
     }
 
     /**
-     * TODO: Description of {@code eliminarEntidad}.
+     * TODO: Description of method {@code eliminarEntidad}.
      *
      */
     @Override
@@ -129,7 +129,7 @@ public class ServicioConfiguracionImpl implements ServicioConfiguracion {
     }
 
     /**
-     * TODO: Description of {@code query}.
+     * TODO: Description of method {@code query}.
      *
      * @param query
      * @param pageable

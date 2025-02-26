@@ -31,7 +31,7 @@ import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
 public class WebSocketConfig extends AbstractWebSocketMessageBrokerConfigurer {
 
     /**
-     * TODO: Description of {@code registerStompEndpoints}.
+     * TODO: Description of method {@code registerStompEndpoints}.
      *
      * @param registry
      */
@@ -43,7 +43,7 @@ public class WebSocketConfig extends AbstractWebSocketMessageBrokerConfigurer {
     }
 
     /**
-     * TODO: Description of {@code configureMessageBroker}.
+     * TODO: Description of method {@code configureMessageBroker}.
      *
      * @param registry
      */

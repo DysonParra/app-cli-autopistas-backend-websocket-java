@@ -40,7 +40,7 @@ public class InternCommandElement extends GenericElement {
     private String internCommand;
 
     /**
-     * TODO: Description of {@code InternCommandElement}.
+     * TODO: Description of method {@code InternCommandElement}.
      *
      * @param sender
      * @param internCommand
@@ -52,7 +52,7 @@ public class InternCommandElement extends GenericElement {
     }
 
     /**
-     * TODO: Description of {@code getPrintTextInternCommand}.
+     * TODO: Description of method {@code getPrintTextInternCommand}.
      *
      * @return
      */

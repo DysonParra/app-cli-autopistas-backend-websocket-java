@@ -23,14 +23,14 @@ package com.project.dev.dummy.serial.generic.client;
 public abstract class GenericSerialMessageListener {
 
     /**
-     * TODO: Description of {@code onMessage}.
+     * TODO: Description of method {@code onMessage}.
      *
      * @param message
      */
     public abstract void onMessage(String message);
 
     /**
-     * TODO: Description of {@code onResponse}.
+     * TODO: Description of method {@code onResponse}.
      *
      * @param response
      */

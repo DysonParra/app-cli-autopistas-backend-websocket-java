@@ -44,7 +44,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     protected int lastTotalWeight = 0;
 
     /**
-     * TODO: Description of {@code StaticWeightClient}.
+     * TODO: Description of method {@code StaticWeightClient}.
      *
      * @param serverIpAddress
      * @param serverPort
@@ -93,7 +93,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code getScaleNumber}.
+     * TODO: Description of method {@code getScaleNumber}.
      *
      * @param message
      * @return
@@ -115,7 +115,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code validateAndClear}.
+     * TODO: Description of method {@code validateAndClear}.
      *
      */
     @Override
@@ -129,7 +129,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code getInfo}.
+     * TODO: Description of method {@code getInfo}.
      *
      * @param type
      * @return
@@ -147,7 +147,7 @@ public class StaticWeightClient extends PeriphericTcpClient {
     }
 
     /**
-     * TODO: Description of {@code sendInfo}.
+     * TODO: Description of method {@code sendInfo}.
      *
      * @param info
      * @return

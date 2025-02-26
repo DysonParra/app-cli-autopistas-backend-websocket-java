@@ -45,7 +45,7 @@ public abstract class GenericElement {
     protected Date recoveryDate = new Date();
 
     /**
-     * TODO: Description of {@code GenericElement}.
+     * TODO: Description of method {@code GenericElement}.
      *
      * @param sender
      */
@@ -54,7 +54,7 @@ public abstract class GenericElement {
     }
 
     /**
-     * TODO: Description of {@code getPrintTextSender}.
+     * TODO: Description of method {@code getPrintTextSender}.
      *
      * @return
      */
@@ -63,7 +63,7 @@ public abstract class GenericElement {
     }
 
     /**
-     * TODO: Description of {@code getPrintTextRecoveryDate}.
+     * TODO: Description of method {@code getPrintTextRecoveryDate}.
      *
      * @return
      */

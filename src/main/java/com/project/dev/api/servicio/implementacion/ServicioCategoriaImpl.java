@@ -45,7 +45,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     private final MapeoCategoria mapeoEntidad = Mappers.getMapper(MapeoCategoria.class);
 
     /**
-     * TODO: Description of {@code ServicioCategoriaImpl}.
+     * TODO: Description of method {@code ServicioCategoriaImpl}.
      *
      * @param repositorioEntidad
      */
@@ -54,7 +54,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Description of {@code guardarActualizar}.
+     * TODO: Description of method {@code guardarActualizar}.
      *
      */
     @Override
@@ -70,7 +70,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Description of {@code obtenerEntidades}.
+     * TODO: Description of method {@code obtenerEntidades}.
      *
      */
     @Override
@@ -80,7 +80,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Description of {@code buscarEntidad}.
+     * TODO: Description of method {@code buscarEntidad}.
      *
      */
     @Override
@@ -91,7 +91,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Description of {@code obtenerEntidades}.
+     * TODO: Description of method {@code obtenerEntidades}.
      *
      * @param strId
      * @return
@@ -104,7 +104,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Description of {@code obtenerEntidades}.
+     * TODO: Description of method {@code obtenerEntidades}.
      *
      * @param pageable
      * @return
@@ -117,7 +117,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Description of {@code eliminarEntidad}.
+     * TODO: Description of method {@code eliminarEntidad}.
      *
      */
     @Override
@@ -127,7 +127,7 @@ public class ServicioCategoriaImpl implements ServicioCategoria {
     }
 
     /**
-     * TODO: Description of {@code query}.
+     * TODO: Description of method {@code query}.
      *
      * @param query
      * @param pageable

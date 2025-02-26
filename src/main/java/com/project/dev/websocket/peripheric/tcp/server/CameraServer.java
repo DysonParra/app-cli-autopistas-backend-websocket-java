@@ -41,7 +41,7 @@ public class CameraServer extends PeriphericTcpServer {
     protected String lastDynamPlates = "";
 
     /**
-     * TODO: Description of {@code CameraServer}.
+     * TODO: Description of method {@code CameraServer}.
      *
      * @param port
      */
@@ -94,7 +94,7 @@ public class CameraServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Description of {@code validateAndClear}.
+     * TODO: Description of method {@code validateAndClear}.
      *
      */
     @Override
@@ -131,7 +131,7 @@ public class CameraServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Description of {@code getInfo}.
+     * TODO: Description of method {@code getInfo}.
      *
      * @param type
      * @return
@@ -170,7 +170,7 @@ public class CameraServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Description of {@code sendInfo}.
+     * TODO: Description of method {@code sendInfo}.
      *
      * @param info
      * @return

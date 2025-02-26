@@ -33,7 +33,7 @@ import org.springframework.stereotype.Repository;
 public interface RepositorioTransitoDinamica extends JpaRepository<TransitoDinamica, Long> {
 
     /**
-     * TODO: Description of {@code findByIntIdDinamica}.
+     * TODO: Description of method {@code findByIntIdDinamica}.
      *
      * @param id
      * @return 
@@ -41,7 +41,7 @@ public interface RepositorioTransitoDinamica extends JpaRepository<TransitoDinam
     public List<TransitoDinamica> findByIntIdDinamica(Long id);
 
     /**
-     * TODO: Description of {@code findByStrPlacaVehiculo}.
+     * TODO: Description of method {@code findByStrPlacaVehiculo}.
      *
      * @param id
      * @return 
@@ -49,7 +49,7 @@ public interface RepositorioTransitoDinamica extends JpaRepository<TransitoDinam
     public TransitoDinamica findByStrPlacaVehiculo(String id);
 
     /**
-     * TODO: Description of {@code buscarEntidades}.
+     * TODO: Description of method {@code buscarEntidades}.
      *
      * @param strBusqueda
      * @param pageable

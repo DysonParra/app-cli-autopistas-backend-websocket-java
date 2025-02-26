@@ -27,7 +27,7 @@ import lombok.NonNull;
 public class SemaphoreCommandProcessor implements GenericCommandProcessor<Boolean> {
 
     /**
-     * TODO: Description of {@code processCommand}.
+     * TODO: Description of method {@code processCommand}.
      *
      * @param plcCommand
      * @param station

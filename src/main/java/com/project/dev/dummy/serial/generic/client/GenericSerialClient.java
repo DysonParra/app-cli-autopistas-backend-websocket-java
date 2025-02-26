@@ -53,7 +53,7 @@ public class GenericSerialClient implements Runnable {
     protected final Object synchronizer = new Object();
 
     /**
-     * TODO: Description of {@code GenericSerialClient}.
+     * TODO: Description of method {@code GenericSerialClient}.
      *
      * @param portName
      * @param baudRate
@@ -72,7 +72,7 @@ public class GenericSerialClient implements Runnable {
     }
 
     /**
-     * TODO: Description of {@code setSerialPort}.
+     * TODO: Description of method {@code setSerialPort}.
      *
      * @param serialPort
      */
@@ -83,7 +83,7 @@ public class GenericSerialClient implements Runnable {
     }
 
     /**
-     * TODO: Description of {@code initialize}.
+     * TODO: Description of method {@code initialize}.
      *
      * @return
      */
@@ -107,7 +107,7 @@ public class GenericSerialClient implements Runnable {
     }
 
     /**
-     * TODO: Description of {@code init}.
+     * TODO: Description of method {@code init}.
      *
      */
     public void init() {
@@ -115,7 +115,7 @@ public class GenericSerialClient implements Runnable {
     }
 
     /**
-     * TODO: Description of {@code stop}.
+     * TODO: Description of method {@code stop}.
      *
      * @return
      */
@@ -135,7 +135,7 @@ public class GenericSerialClient implements Runnable {
     }
 
     /**
-     * TODO: Description of {@code run}.
+     * TODO: Description of method {@code run}.
      *
      */
     @Override

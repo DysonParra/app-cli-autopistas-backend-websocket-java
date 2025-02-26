@@ -33,7 +33,7 @@ import org.springframework.stereotype.Repository;
 public interface RepositorioVehiculoSobrepeso extends JpaRepository<VehiculoSobrepeso, Long> {
 
     /**
-     * TODO: Description of {@code findByIntIdRepeso}.
+     * TODO: Description of method {@code findByIntIdRepeso}.
      *
      * @param id
      * @return 
@@ -41,7 +41,7 @@ public interface RepositorioVehiculoSobrepeso extends JpaRepository<VehiculoSobr
     public List<VehiculoSobrepeso> findByIntIdRepeso(Long id);
 
     /**
-     * TODO: Description of {@code buscarEntidades}.
+     * TODO: Description of method {@code buscarEntidades}.
      *
      * @param strBusqueda
      * @param pageable

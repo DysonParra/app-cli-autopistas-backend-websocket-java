@@ -37,7 +37,7 @@ public class CameraPlateElement extends GenericElement {
     private String imgPlate;
 
     /**
-     * TODO: Description of {@code CameraPlateElement}.
+     * TODO: Description of method {@code CameraPlateElement}.
      *
      * @param sender
      * @param imgPlate
@@ -51,7 +51,7 @@ public class CameraPlateElement extends GenericElement {
     }
 
     /**
-     * TODO: Description of {@code getPrintTextTxtPlate}.
+     * TODO: Description of method {@code getPrintTextTxtPlate}.
      *
      * @return
      */
@@ -60,7 +60,7 @@ public class CameraPlateElement extends GenericElement {
     }
 
     /**
-     * TODO: Description of {@code getPrintTextImgPlate}.
+     * TODO: Description of method {@code getPrintTextImgPlate}.
      *
      * @return
      */

@@ -27,7 +27,7 @@ import java.util.List;
 public class TxtTicket implements GenericObjectToPrint<String> {
 
     /**
-     * TODO: Description of {@code makeListToPrint}.
+     * TODO: Description of method {@code makeListToPrint}.
      *
      * @return
      */

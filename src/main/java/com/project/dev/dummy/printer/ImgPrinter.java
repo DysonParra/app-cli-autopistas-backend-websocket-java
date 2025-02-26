@@ -42,7 +42,7 @@ import javax.print.attribute.HashPrintRequestAttributeSet;
 public class ImgPrinter extends GenericPrinter<String, GenericImgLineToPrint> {
 
     /**
-     * TODO: Description of {@code makeImageFromGenericLines}.
+     * TODO: Description of method {@code makeImageFromGenericLines}.
      *
      * @param imageWidth
      * @param imageHeight
@@ -89,7 +89,7 @@ public class ImgPrinter extends GenericPrinter<String, GenericImgLineToPrint> {
     }
 
     /**
-     * TODO: Description of {@code printObject}.
+     * TODO: Description of method {@code printObject}.
      *
      * @param printerName
      * @param objectToPrint

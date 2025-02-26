@@ -36,7 +36,7 @@ public abstract class PeriphericSerialClient extends GenericSerialClient impleme
     protected Station station = Station.builder().build();
 
     /**
-     * TODO: Description of {@code PeriphericSerialClient}.
+     * TODO: Description of method {@code PeriphericSerialClient}.
      *
      * @param portName
      * @param parity
@@ -49,7 +49,7 @@ public abstract class PeriphericSerialClient extends GenericSerialClient impleme
     }
 
     /**
-     * TODO: Description of {@code setNumberOfThisType}.
+     * TODO: Description of method {@code setNumberOfThisType}.
      *
      * @param numberOfThisType
      */

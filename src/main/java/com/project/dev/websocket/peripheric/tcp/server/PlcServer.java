@@ -50,7 +50,7 @@ public class PlcServer extends PeriphericTcpServer {
     protected final List<PlcCommandElement> plcRequests = new ArrayList<>();
 
     /**
-     * TODO: Description of {@code PlcServer}.
+     * TODO: Description of method {@code PlcServer}.
      *
      * @param plcPort
      */
@@ -157,7 +157,7 @@ public class PlcServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Description of {@code sendInitCommands}.
+     * TODO: Description of method {@code sendInitCommands}.
      *
      * @param client
      * @param sender
@@ -196,7 +196,7 @@ public class PlcServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Description of {@code validateAndClear}.
+     * TODO: Description of method {@code validateAndClear}.
      *
      */
     @Override
@@ -213,7 +213,7 @@ public class PlcServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Description of {@code getInfo}.
+     * TODO: Description of method {@code getInfo}.
      *
      * @param type
      * @return
@@ -240,7 +240,7 @@ public class PlcServer extends PeriphericTcpServer {
     }
 
     /**
-     * TODO: Description of {@code sendInfo}.
+     * TODO: Description of method {@code sendInfo}.
      *
      * @param info
      * @return

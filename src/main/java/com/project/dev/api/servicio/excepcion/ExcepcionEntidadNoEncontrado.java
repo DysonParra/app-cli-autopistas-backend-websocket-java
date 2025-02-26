@@ -23,7 +23,7 @@ package com.project.dev.api.servicio.excepcion;
 public class ExcepcionEntidadNoEncontrado extends RuntimeException {
 
     /**
-     * TODO: Description of {@code ExcepcionEntidadNoEncontrado}.
+     * TODO: Description of method {@code ExcepcionEntidadNoEncontrado}.
      *
      * @param id
      */
@@ -32,7 +32,7 @@ public class ExcepcionEntidadNoEncontrado extends RuntimeException {
     }
 
     /**
-     * TODO: Description of {@code ExcepcionEntidadNoEncontrado}.
+     * TODO: Description of method {@code ExcepcionEntidadNoEncontrado}.
      *
      * @param usuario
      */

@@ -28,7 +28,7 @@ import lombok.NonNull;
 public class StaticDisplayCommandProcessor implements GenericCommandProcessor<Boolean> {
 
     /**
-     * TODO: Description of {@code processCommand}.
+     * TODO: Description of method {@code processCommand}.
      *
      * @param plcCommand
      * @param station

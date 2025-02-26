@@ -36,7 +36,7 @@ public abstract class PeriphericTcpServer extends GenericServer implements Perip
     protected Station station = Station.builder().build();
 
     /**
-     * TODO: Description of {@code PeriphericTcpServer}.
+     * TODO: Description of method {@code PeriphericTcpServer}.
      *
      */
     public PeriphericTcpServer() {
@@ -44,7 +44,7 @@ public abstract class PeriphericTcpServer extends GenericServer implements Perip
     }
 
     /**
-     * TODO: Description of {@code PeriphericTcpServer}.
+     * TODO: Description of method {@code PeriphericTcpServer}.
      *
      * @param serverPort
      */
@@ -53,7 +53,7 @@ public abstract class PeriphericTcpServer extends GenericServer implements Perip
     }
 
     /**
-     * TODO: Description of {@code PeriphericTcpServer}.
+     * TODO: Description of method {@code PeriphericTcpServer}.
      *
      * @param serverPort
      * @param processListenersOnOtherThread
@@ -63,7 +63,7 @@ public abstract class PeriphericTcpServer extends GenericServer implements Perip
     }
 
     /**
-     * TODO: Description of {@code setNumberOfThisType}.
+     * TODO: Description of method {@code setNumberOfThisType}.
      *
      * @param numberOfThisType
      */
