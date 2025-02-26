@@ -36,7 +36,7 @@ public interface ServicioGenerico<T> {
     public T guardarActualizar(T entidadDTO) throws Exception;
 
     /**
-     * Lista todos las entidades (actividades) existentes.
+     * Lista todas las entidades (actividades) existentes.
      *
      * @return lista de entidades almacenadas en la base de datos.
      * @throws java.lang.Exception

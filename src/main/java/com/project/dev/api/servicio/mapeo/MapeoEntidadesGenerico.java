@@ -17,8 +17,7 @@ package com.project.dev.api.servicio.mapeo;
 import java.util.List;
 
 /**
- * FIXME: Description of {@code MapeoEntidadesGenerico}.
- * Contract for a generic dto to entity mapper.
+ * TODO: Description of {@code MapeoEntidadesGenerico}.
  *
  * @param <D> - DTO type parameter.
  * @param <E> - Entity type parameter.
