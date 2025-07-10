@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericObjectToPrint}
+ * @overview        {GenericObjectToPrint}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {TransitoDinamicaDTO}
+ * @overview        {TransitoDinamicaDTO}
  *
  * @version         2.0
  *

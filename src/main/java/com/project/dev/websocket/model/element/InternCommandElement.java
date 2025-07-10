@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {InternCommandElement}
+ * @overview        {InternCommandElement}
  *
  * @version         2.0
  *

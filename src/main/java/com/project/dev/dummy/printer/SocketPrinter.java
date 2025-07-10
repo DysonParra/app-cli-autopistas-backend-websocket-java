@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SocketPrinter}
+ * @overview        {SocketPrinter}
  *
  * @version         2.0
  *

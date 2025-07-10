@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {CameraMessage}
+ * @overview        {CameraMessage}
  *
  * @version         2.0
  *

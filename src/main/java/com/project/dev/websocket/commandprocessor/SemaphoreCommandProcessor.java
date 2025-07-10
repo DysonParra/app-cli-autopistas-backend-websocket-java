@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SemaphoreCommandProcessor}
+ * @overview        {SemaphoreCommandProcessor}
  *
  * @version         2.0
  *

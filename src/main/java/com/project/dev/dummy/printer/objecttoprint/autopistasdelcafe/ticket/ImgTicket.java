@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ImgTicket}
+ * @overview        {ImgTicket}
  *
  * @version         2.0
  *

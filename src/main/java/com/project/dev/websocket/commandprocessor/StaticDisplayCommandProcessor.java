@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {StaticDisplayCommandProcessor}
+ * @overview        {StaticDisplayCommandProcessor}
  *
  * @version         2.0
  *

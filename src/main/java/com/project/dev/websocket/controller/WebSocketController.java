@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {WebSocketController}
+ * @overview        {WebSocketController}
  *
  * @version         2.0
  *

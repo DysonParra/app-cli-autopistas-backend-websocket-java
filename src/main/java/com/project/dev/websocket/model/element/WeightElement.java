@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {WeightElement}
+ * @overview        {WeightElement}
  *
  * @version         2.0
  *

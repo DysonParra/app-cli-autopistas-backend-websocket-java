@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DynamicDisplayCommandProcessor}
+ * @overview        {DynamicDisplayCommandProcessor}
  *
  * @version         2.0
  *

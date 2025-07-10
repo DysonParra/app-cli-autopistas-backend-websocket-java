@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {FrontMessage}
+ * @overview        {FrontMessage}
  *
  * @version         2.0
  *

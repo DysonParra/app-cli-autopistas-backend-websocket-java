@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {VehiculoSobrepeso}
+ * @overview        {VehiculoSobrepeso}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ServicioTransitoDinamica}
+ * @overview        {ServicioTransitoDinamica}
  *
  * @version         2.0
  *

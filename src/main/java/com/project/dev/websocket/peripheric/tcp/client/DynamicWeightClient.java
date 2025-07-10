@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DynamicWeightClient}
+ * @overview        {DynamicWeightClient}
  *
  * @version         2.0
  *

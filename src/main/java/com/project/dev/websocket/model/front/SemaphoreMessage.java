@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SemaphoreMessage}
+ * @overview        {SemaphoreMessage}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {Station}
+ * @overview        {Station}
  *
  * @version         2.0
  *

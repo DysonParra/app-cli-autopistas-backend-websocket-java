@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ServicioTransitoDinamicaImpl}
+ * @overview        {ServicioTransitoDinamicaImpl}
  *
  * @version         2.0
  *
@@ -62,7 +62,7 @@ public class ServicioTransitoDinamicaImpl implements ServicioTransitoDinamica {
     public TransitoDinamicaDTO guardarActualizar(TransitoDinamicaDTO entidadDTO) throws Exception {
         log.debug("Solicitud para guardar la entidad : {}", entidadDTO);
 
-        //TODO: agregar validacion especifica del servicio.
+        //TODO: agregar validación específica del servicio.
         TransitoDinamica entidad = mapeoEntidad.obtenerEntidad(entidadDTO);
         entidad = repositorioEntidad.save(entidad);
 

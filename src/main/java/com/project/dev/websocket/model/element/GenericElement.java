@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericElement}
+ * @overview        {GenericElement}
  *
  * @version         2.0
  *

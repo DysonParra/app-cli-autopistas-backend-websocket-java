@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ExcepcionEntidadNoEncontrado}
+ * @overview        {ExcepcionEntidadNoEncontrado}
  *
  * @version         2.0
  *

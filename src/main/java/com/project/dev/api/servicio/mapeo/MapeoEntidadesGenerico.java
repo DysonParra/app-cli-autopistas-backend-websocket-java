@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {MapeoEntidadesGenerico}
+ * @overview        {MapeoEntidadesGenerico}
  *
  * @version         2.0
  *

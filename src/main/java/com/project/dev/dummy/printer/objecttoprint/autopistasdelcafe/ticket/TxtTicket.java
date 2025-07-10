@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {TxtTicket}
+ * @overview        {TxtTicket}
  *
  * @version         2.0
  *

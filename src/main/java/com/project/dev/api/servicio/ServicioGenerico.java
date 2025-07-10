@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ServicioGenerico}
+ * @overview        {ServicioGenerico}
  *
  * @version         2.0
  *

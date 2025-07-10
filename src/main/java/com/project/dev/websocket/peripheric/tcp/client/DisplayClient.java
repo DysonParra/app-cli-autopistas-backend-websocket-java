@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DisplayClient}
+ * @overview        {DisplayClient}
  *
  * @version         2.0
  *

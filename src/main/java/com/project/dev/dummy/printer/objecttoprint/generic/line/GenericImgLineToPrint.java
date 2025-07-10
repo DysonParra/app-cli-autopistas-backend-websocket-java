@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericImgLineToPrint}
+ * @overview        {GenericImgLineToPrint}
  *
  * @version         2.0
  *

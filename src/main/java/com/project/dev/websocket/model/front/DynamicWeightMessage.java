@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DynamicWeightMessage}
+ * @overview        {DynamicWeightMessage}
  *
  * @version         2.0
  *

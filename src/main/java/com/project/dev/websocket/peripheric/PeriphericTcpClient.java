@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PeriphericTcpClient}
+ * @overview        {PeriphericTcpClient}
  *
  * @version         2.0
  *

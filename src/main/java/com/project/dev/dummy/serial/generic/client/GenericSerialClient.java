@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericSerialClient}
+ * @overview        {GenericSerialClient}
  *
  * @version         2.0
  *

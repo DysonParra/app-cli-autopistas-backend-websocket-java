@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {StaticWeightSerialClient}
+ * @overview        {StaticWeightSerialClient}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ServicioVehiculoImpl}
+ * @overview        {ServicioVehiculoImpl}
  *
  * @version         2.0
  *
@@ -62,7 +62,7 @@ public class ServicioVehiculoImpl implements ServicioVehiculo {
     public VehiculoDTO guardarActualizar(VehiculoDTO entidadDTO) throws Exception {
         log.debug("Solicitud para guardar la entidad : {}", entidadDTO);
 
-        //TODO: agregar validacion especifica del servicio.
+        //TODO: agregar validación específica del servicio.
         Vehiculo entidad = mapeoEntidad.obtenerEntidad(entidadDTO);
         entidad = repositorioEntidad.save(entidad);
 

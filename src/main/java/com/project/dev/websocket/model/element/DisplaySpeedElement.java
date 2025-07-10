@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {DisplaySpeedElement}
+ * @overview        {DisplaySpeedElement}
  *
  * @version         2.0
  *

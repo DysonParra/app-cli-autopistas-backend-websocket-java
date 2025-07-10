@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {TxtPrinter}
+ * @overview        {TxtPrinter}
  *
  * @version         2.0
  *

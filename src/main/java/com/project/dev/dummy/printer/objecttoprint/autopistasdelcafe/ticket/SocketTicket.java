@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {SocketTicket}
+ * @overview        {SocketTicket}
  *
  * @version         2.0
  *

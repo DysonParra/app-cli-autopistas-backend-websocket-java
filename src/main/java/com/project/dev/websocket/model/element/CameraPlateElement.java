@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {CameraPlateElement}
+ * @overview        {CameraPlateElement}
  *
  * @version         2.0
  *

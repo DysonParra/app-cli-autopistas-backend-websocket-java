@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {ImgPrinter}
+ * @overview        {ImgPrinter}
  *
  * @version         2.0
  *

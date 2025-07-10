@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GenericCommandProcessor}
+ * @overview        {GenericCommandProcessor}
  *
  * @version         2.0
  *

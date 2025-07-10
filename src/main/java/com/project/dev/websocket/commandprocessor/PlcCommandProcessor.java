@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PlcCommandProcessor}
+ * @overview        {PlcCommandProcessor}
  *
  * @version         2.0
  *

@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {PlcCommandElement}
+ * @overview        {PlcCommandElement}
  *
  * @version         2.0
  *
